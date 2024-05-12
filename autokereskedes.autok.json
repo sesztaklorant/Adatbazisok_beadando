@@ -1,0 +1,5233 @@
+[{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef060"
+  },
+  "AutoID": 1,
+  "Marka": "Audi",
+  "Modell": "A3",
+  "GyartasiEv": 2015,
+  "Szin": "Ezüst",
+  "Motortipus": "Dízel",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-01-20T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      64000
+    ],
+    "SzervizLeiras": [
+      "Légkondicionáló töltés"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2023-01-04T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kiss",
+    "Keresztnev": "Márton",
+    "Iranyitoszam": 6726,
+    "Varos": "Szeged",
+    "Utca": "Kossuth tér",
+    "Hazszam": 6,
+    "Email": "marton.kiss@gmail.com",
+    "Telefonszam": 363067830
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef061"
+  },
+  "AutoID": 2,
+  "Marka": "BMW",
+  "Modell": "3 Sorozat",
+  "GyartasiEv": 2016,
+  "Szin": "Fekete",
+  "Motortipus": "Benzin",
+  "VetelAr": 4200000,
+  "EladasiAr": 5400000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-06-13T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      31000
+    ],
+    "SzervizLeiras": [
+      "Olajcsere"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2022-09-30T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kovács",
+    "Keresztnev": "Dániel",
+    "Iranyitoszam": 1117,
+    "Varos": "Budapest",
+    "Utca": "Alkotás utca",
+    "Hazszam": 4,
+    "Email": "kovacs.daniel@outlook.com",
+    "Telefonszam": 362045679
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef062"
+  },
+  "AutoID": 3,
+  "Marka": "Ford",
+  "Modell": "Focus",
+  "GyartasiEv": 2018,
+  "Szin": "Kék",
+  "Motortipus": "Benzin",
+  "VetelAr": 3300000,
+  "EladasiAr": 4200000,
+  "EladasDatuma": {
+    "$date": "2023-03-19T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kovács",
+    "Keresztnev": "Lóránt",
+    "Iranyitoszam": 1052,
+    "Varos": "Budapest",
+    "Utca": "Károly körút",
+    "Hazszam": 25,
+    "Email": "lorant.kovacs@protonmail.com",
+    "Telefonszam": 362067567
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef063"
+  },
+  "AutoID": 4,
+  "Marka": "Opel",
+  "Modell": "Corsa",
+  "GyartasiEv": 2012,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 1500000,
+  "EladasiAr": 2100000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-02-01T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      40000
+    ],
+    "SzervizLeiras": [
+      "Üzemanyag-szűrő csere"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2023-02-26T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kovács",
+    "Keresztnev": "Gábor",
+    "Iranyitoszam": 9024,
+    "Varos": "Győr",
+    "Utca": "Radó út",
+    "Hazszam": 14,
+    "Email": "gabor.kovacs@outlook.com",
+    "Telefonszam": 362034457
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef064"
+  },
+  "AutoID": 5,
+  "Marka": "Toyota",
+  "Modell": "Corolla",
+  "GyartasiEv": 2019,
+  "Szin": "Fehér",
+  "Motortipus": "Hibrid",
+  "VetelAr": 5400000,
+  "EladasiAr": 6700000,
+  "EladasDatuma": {
+    "$date": "2022-09-01T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Szabó",
+    "Keresztnev": "Roland",
+    "Iranyitoszam": 1117,
+    "Varos": "Budapest",
+    "Utca": "Bajcsy-Zsilinszky út",
+    "Hazszam": 8,
+    "Email": "roland.szabo@gmail.com",
+    "Telefonszam": 362034167
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef065"
+  },
+  "AutoID": 6,
+  "Marka": "Mercedes-Benz",
+  "Modell": "C Osztály",
+  "GyartasiEv": 2017,
+  "Szin": "Fekete",
+  "Motortipus": "Dízel",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000,
+  "EladasDatuma": {
+    "$date": "2022-06-13T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Nagy",
+    "Keresztnev": "Judit",
+    "Iranyitoszam": 6724,
+    "Varos": "Szeged",
+    "Utca": "Roosevelt tér",
+    "Hazszam": 7,
+    "Email": "judit.nagy@outlook.com",
+    "Telefonszam": 367092123
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef066"
+  },
+  "AutoID": 7,
+  "Marka": "Renault",
+  "Modell": "Clio",
+  "GyartasiEv": 2014,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 1800000,
+  "EladasiAr": 2400000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-12-19T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      50000
+    ],
+    "SzervizLeiras": [
+      "Kormányműszivattyú csere"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2023-06-03T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kovács",
+    "Keresztnev": "Dániel",
+    "Iranyitoszam": 1117,
+    "Varos": "Budapest",
+    "Utca": "Alkotás utca",
+    "Hazszam": 4,
+    "Email": "kovacs.daniel@outlook.com",
+    "Telefonszam": 362045679
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef067"
+  },
+  "AutoID": 8,
+  "Marka": "Volkswagen",
+  "Modell": "Golf",
+  "GyartasiEv": 2020,
+  "Szin": "Ezüst",
+  "Motortipus": "Benzin",
+  "VetelAr": 5400000,
+  "EladasiAr": 6700000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-03-13T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      45000
+    ],
+    "SzervizLeiras": [
+      "Vezérműszíj csere"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2022-11-08T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kiss",
+    "Keresztnev": "Tamás",
+    "Iranyitoszam": 6726,
+    "Varos": "Szeged",
+    "Utca": "Petőfi Sándor sugárút",
+    "Hazszam": 9,
+    "Email": "tamas.kiss@citromail.hu",
+    "Telefonszam": 367091123
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef068"
+  },
+  "AutoID": 9,
+  "Marka": "Suzuki",
+  "Modell": "Swift",
+  "GyartasiEv": 2013,
+  "Szin": "Kék",
+  "Motortipus": "Benzin",
+  "VetelAr": 1800000,
+  "EladasiAr": 2400000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-09-07T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      92000
+    ],
+    "SzervizLeiras": [
+      "Vezérműszíj csere"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef069"
+  },
+  "AutoID": 10,
+  "Marka": "Fiat",
+  "Modell": "Punto",
+  "GyartasiEv": 2010,
+  "Szin": "Fehér",
+  "Motortipus": "Benzin",
+  "VetelAr": 900000,
+  "EladasiAr": 1500000,
+  "EladasDatuma": {
+    "$date": "2023-08-29T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kovács",
+    "Keresztnev": "László",
+    "Iranyitoszam": 1051,
+    "Varos": "Budapest",
+    "Utca": "Deák Ferenc tér",
+    "Hazszam": 21,
+    "Email": "laszlo.kovacs@t-online.hu",
+    "Telefonszam": 362034367
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef06a"
+  },
+  "AutoID": 11,
+  "Marka": "Peugeot",
+  "Modell": "208",
+  "GyartasiEv": 2016,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 1800000,
+  "EladasiAr": 2400000,
+  "EladasDatuma": {
+    "$date": "2023-03-06T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Horváth",
+    "Keresztnev": "Márton",
+    "Iranyitoszam": 6722,
+    "Varos": "Szeged",
+    "Utca": "Dugonics tér",
+    "Hazszam": 12,
+    "Email": "marton.horvath@gmail.com",
+    "Telefonszam": 367056252
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef06b"
+  },
+  "AutoID": 12,
+  "Marka": "Nissan",
+  "Modell": "Micra",
+  "GyartasiEv": 2017,
+  "Szin": "Zöld",
+  "Motortipus": "Benzin",
+  "VetelAr": 1800000,
+  "EladasiAr": 2400000,
+  "EladasDatuma": {
+    "$date": "2023-05-17T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Tóth",
+    "Keresztnev": "Anita",
+    "Iranyitoszam": 6000,
+    "Varos": "Kecskemét",
+    "Utca": "Kossuth Lajos utca",
+    "Hazszam": 17,
+    "Email": "anita_toth@t-online.hu",
+    "Telefonszam": 367089242
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef06c"
+  },
+  "AutoID": 13,
+  "Marka": "Skoda",
+  "Modell": "Fabia",
+  "GyartasiEv": 2015,
+  "Szin": "Fekete",
+  "Motortipus": "Benzin",
+  "VetelAr": 1800000,
+  "EladasiAr": 2400000,
+  "EladasDatuma": {
+    "$date": "2022-05-02T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kiss",
+    "Keresztnev": "Dániel",
+    "Iranyitoszam": 6724,
+    "Varos": "Szeged",
+    "Utca": "Gutenberg tér",
+    "Hazszam": 3,
+    "Email": "daniel.kiss@freemail.hu",
+    "Telefonszam": 367090003
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef06d"
+  },
+  "AutoID": 14,
+  "Marka": "Hyundai",
+  "Modell": "i20",
+  "GyartasiEv": 2018,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 3300000,
+  "EladasiAr": 4200000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-08-15T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      48000
+    ],
+    "SzervizLeiras": [
+      "Hűtőrendszer nagyszerviz"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2022-10-13T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Tóth",
+    "Keresztnev": "Anita",
+    "Iranyitoszam": 6000,
+    "Varos": "Kecskemét",
+    "Utca": "Kossuth Lajos utca",
+    "Hazszam": 17,
+    "Email": "anita_toth@t-online.hu",
+    "Telefonszam": 367089242
+  }
+
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef06e"
+  },
+  "AutoID": 15,
+  "Marka": "Kia",
+  "Modell": "Rio",
+  "GyartasiEv": 2011,
+  "Szin": "Világoskék",
+  "Motortipus": "Benzin",
+  "VetelAr": 1200000,
+  "EladasiAr": 1800000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-03-06T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      25000
+    ],
+    "SzervizLeiras": [
+      "Olajcsere"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2023-04-15T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Nagy",
+    "Keresztnev": "Anna",
+    "Iranyitoszam": 3300,
+    "Varos": "Eger",
+    "Utca": "Dózsa György út",
+    "Hazszam": 5,
+    "Email": "anna.nagy85@gmail.com",
+    "Telefonszam": 363045675
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef06f"
+  },
+  "AutoID": 16,
+  "Marka": "Mazda",
+  "Modell": "2",
+  "GyartasiEv": 2014,
+  "Szin": "Fehér",
+  "Motortipus": "Benzin",
+  "VetelAr": 1500000,
+  "EladasiAr": 2100000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-07-08T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      72000
+    ],
+    "SzervizLeiras": [
+      "Motorolaj és szűrők cseréje"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2022-07-18T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kovács",
+    "Keresztnev": "Zoltán",
+    "Iranyitoszam": 6726,
+    "Varos": "Szeged",
+    "Utca": "Roosevelt tér",
+    "Hazszam": 5,
+    "Email": "zoltan.kovacs@gmail.com",
+    "Telefonszam": 367000123
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef070"
+  },
+  "AutoID": 17,
+  "Marka": "Citroen",
+  "Modell": "C3",
+  "GyartasiEv": 2019,
+  "Szin": "Sárga",
+  "Motortipus": "Benzin",
+  "VetelAr": 3000000,
+  "EladasiAr": 3900000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef071"
+  },
+  "AutoID": 18,
+  "Marka": "Seat",
+  "Modell": "Ibiza",
+  "GyartasiEv": 2016,
+  "Szin": "Fekete",
+  "Motortipus": "Benzin",
+  "VetelAr": 2400000,
+  "EladasiAr": 3000000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef072"
+  },
+  "AutoID": 19,
+  "Marka": "Honda",
+  "Modell": "Jazz",
+  "GyartasiEv": 2017,
+  "Szin": "Ezüst",
+  "Motortipus": "Benzin",
+  "VetelAr": 3300000,
+  "EladasiAr": 4200000,
+  "EladasDatuma": {
+    "$date": "2022-12-08T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Nagy",
+    "Keresztnev": "Levente",
+    "Iranyitoszam": 6720,
+    "Varos": "Szeged",
+    "Utca": "Arany János utca",
+    "Hazszam": 3,
+    "Email": "levente.nagy@yahoo.com",
+    "Telefonszam": 367090123
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef073"
+  },
+  "AutoID": 20,
+  "Marka": "Mitsubishi",
+  "Modell": "Colt",
+  "GyartasiEv": 2012,
+  "Szin": "Kék",
+  "Motortipus": "Benzin",
+  "VetelAr": 1500000,
+  "EladasiAr": 2100000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-07-08T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      25000
+    ],
+    "SzervizLeiras": [
+      "Olajcsere"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef074"
+  },
+  "AutoID": 21,
+  "Marka": "Audi",
+  "Modell": "A4",
+  "GyartasiEv": 2016,
+  "Szin": "Fehér",
+  "Motortipus": "Dízel",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef075"
+  },
+  "AutoID": 22,
+  "Marka": "BMW",
+  "Modell": "5 Sorozat",
+  "GyartasiEv": 2013,
+  "Szin": "Szürke",
+  "Motortipus": "Dízel",
+  "VetelAr": 4500000,
+  "EladasiAr": 5700000,
+  "EladasDatuma": {
+    "$date": "2023-01-21T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Nagy",
+    "Keresztnev": "Levente",
+    "Iranyitoszam": 6720,
+    "Varos": "Szeged",
+    "Utca": "Arany János utca",
+    "Hazszam": 3,
+    "Email": "levente.nagy@yahoo.com",
+    "Telefonszam": 367090123
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef076"
+  },
+  "AutoID": 23,
+  "Marka": "Ford",
+  "Modell": "Mondeo",
+  "GyartasiEv": 2014,
+  "Szin": "Fekete",
+  "Motortipus": "Benzin",
+  "VetelAr": 2400000,
+  "EladasiAr": 3000000,
+  "EladasDatuma": {
+    "$date": "2022-08-19T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Tóth",
+    "Keresztnev": "Ágnes",
+    "Iranyitoszam": 3200,
+    "Varos": "Gyöngyös",
+    "Utca": "Rákóczi út",
+    "Hazszam": 14,
+    "Email": "agnes_toth@t-online.de",
+    "Telefonszam": 363056780
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef077"
+  },
+  "AutoID": 24,
+  "Marka": "Opel",
+  "Modell": "Astra",
+  "GyartasiEv": 2018,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-10-17T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      87000
+    ],
+    "SzervizLeiras": [
+      "Kormánymű javítás"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2023-06-25T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Molnár",
+    "Keresztnev": "László",
+    "Iranyitoszam": 9024,
+    "Varos": "Győr",
+    "Utca": "Váci út",
+    "Hazszam": 8,
+    "Email": "laszlo.molnar@yahoo.com",
+    "Telefonszam": 363010986
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef078"
+  },
+  "AutoID": 25,
+  "Marka": "Toyota",
+  "Modell": "Auris",
+  "GyartasiEv": 2015,
+  "Szin": "Ezüst",
+  "Motortipus": "Hibrid",
+  "VetelAr": 5400000,
+  "EladasiAr": 6700000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2023-03-10T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      84000
+    ],
+    "SzervizLeiras": [
+      "Fényszóró beállítás"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef079"
+  },
+  "AutoID": 26,
+  "Marka": "Mercedes-Benz",
+  "Modell": "E Osztály",
+  "GyartasiEv": 2017,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000,
+  "EladasDatuma": {
+    "$date": "2022-06-29T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Horváth",
+    "Keresztnev": "Petra",
+    "Iranyitoszam": 1052,
+    "Varos": "Budapest",
+    "Utca": "Széchenyi István tér",
+    "Hazszam": 19,
+    "Email": "petra.horvath@protonmail.com",
+    "Telefonszam": 367089019
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef07a"
+  },
+  "AutoID": 27,
+  "Marka": "Renault",
+  "Modell": "Megane",
+  "GyartasiEv": 2019,
+  "Szin": "Kék",
+  "Motortipus": "Dízel",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-06-30T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      35000
+    ],
+    "SzervizLeiras": [
+      "Olajcsere"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2023-02-17T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Tóth",
+    "Keresztnev": "Ágota",
+    "Iranyitoszam": 9024,
+    "Varos": "Győr",
+    "Utca": "Kossuth Lajos utca",
+    "Hazszam": 10,
+    "Email": "agota.toth@outlook.com",
+    "Telefonszam": 363085274
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef07b"
+  },
+  "AutoID": 28,
+  "Marka": "Volkswagen",
+  "Modell": "Passat",
+  "GyartasiEv": 2016,
+  "Szin": "Fehér",
+  "Motortipus": "Dízel",
+  "VetelAr": 5400000,
+  "EladasiAr": 6700000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef07c"
+  },
+  "AutoID": 29,
+  "Marka": "Suzuki",
+  "Modell": "Vitara",
+  "GyartasiEv": 2017,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 3300000,
+  "EladasiAr": 4200000,
+  "EladasDatuma": {
+    "$date": "2022-05-25T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Tóth",
+    "Keresztnev": "Éva",
+    "Iranyitoszam": 1024,
+    "Varos": "Budapest",
+    "Utca": "Bartók Béla út",
+    "Hazszam": 5,
+    "Email": "eva_toth@yahoo.com",
+    "Telefonszam": 367089012
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef07d"
+  },
+  "AutoID": 30,
+  "Marka": "Fiat",
+  "Modell": "Tipo",
+  "GyartasiEv": 2018,
+  "Szin": "Kék",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef07e"
+  },
+  "AutoID": 31,
+  "Marka": "Peugeot",
+  "Modell": "308",
+  "GyartasiEv": 2015,
+  "Szin": "Fehér",
+  "Motortipus": "Benzin",
+  "VetelAr": 2700000,
+  "EladasiAr": 3400000,
+  "EladasDatuma": {
+    "$date": "2022-12-13T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Nagy",
+    "Keresztnev": "Gergő",
+    "Iranyitoszam": 6000,
+    "Varos": "Kecskemét",
+    "Utca": "Kossuth tér",
+    "Hazszam": 3,
+    "Email": "gergo.nagy@protonmail.com",
+    "Telefonszam": 367090328
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef07f"
+  },
+  "AutoID": 32,
+  "Marka": "Nissan",
+  "Modell": "Qashqai",
+  "GyartasiEv": 2019,
+  "Szin": "Fekete",
+  "Motortipus": "Dízel",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000,
+  "EladasDatuma": {
+    "$date": "2022-09-09T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Nagy",
+    "Keresztnev": "Gréta",
+    "Iranyitoszam": 1027,
+    "Varos": "Budapest",
+    "Utca": "Bartók Béla út",
+    "Hazszam": 11,
+    "Email": "greta.nagy@yahoo.com",
+    "Telefonszam": 363067846
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef080"
+  },
+  "AutoID": 33,
+  "Marka": "Skoda",
+  "Modell": "Octavia",
+  "GyartasiEv": 2016,
+  "Szin": "Fehér",
+  "Motortipus": "Dízel",
+  "VetelAr": 4500000,
+  "EladasiAr": 5700000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef081"
+  },
+  "AutoID": 34,
+  "Marka": "Hyundai",
+  "Modell": "Tucson",
+  "GyartasiEv": 2017,
+  "Szin": "Kék",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef082"
+  },
+  "AutoID": 35,
+  "Marka": "Kia",
+  "Modell": "Sportage",
+  "GyartasiEv": 2014,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 2400000,
+  "EladasiAr": 3000000,
+  "EladasDatuma": {
+    "$date": "2023-05-25T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kiss",
+    "Keresztnev": "Máté",
+    "Iranyitoszam": 9024,
+    "Varos": "Győr",
+    "Utca": "Baross utca",
+    "Hazszam": 9,
+    "Email": "mate_kiss@citromail.hu",
+    "Telefonszam": 363058789
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef083"
+  },
+  "AutoID": 36,
+  "Marka": "Mazda",
+  "Modell": "CX-5",
+  "GyartasiEv": 2018,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 4500000,
+  "EladasiAr": 5700000,
+  "Szerviz": {
+    "SzervizDatum": [
+      
+      {"$date": "2021-04-01T00:00:00.000Z"},
+      {"$date": "2021-11-18T00:00:00.000Z"}
+      
+    ],
+    "SzervizKoltseg": [
+      92000,
+      30000
+
+    ],
+    "SzervizLeiras": [
+      "Automata váltó olajcsere",
+      "Motorolaj és szűrők cseréje"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2022-10-31T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Nagy",
+    "Keresztnev": "Emese",
+    "Iranyitoszam": 1027,
+    "Varos": "Budapest",
+    "Utca": "József körút",
+    "Hazszam": 3,
+    "Email": "emese.nagy@gmail.com",
+    "Telefonszam": 362038867
+  }
+
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef084"
+  },
+  "AutoID": 37,
+  "Marka": "Honda",
+  "Modell": "CR-V",
+  "GyartasiEv": 2016,
+  "Szin": "Fekete",
+  "Motortipus": "Benzin",
+  "VetelAr": 4500000,
+  "EladasiAr": 5700000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-02-25T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      30000
+    ],
+    "SzervizLeiras": [
+      "Olajcsere"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2023-08-10T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Fekete",
+    "Keresztnev": "Luca",
+    "Iranyitoszam": 9021,
+    "Varos": "Győr",
+    "Utca": "Berzsenyi tér",
+    "Hazszam": 6,
+    "Email": "luca.fekete@freemail.hu",
+    "Telefonszam": 363056723
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef085"
+  },
+  "AutoID": 38,
+  "Marka": "Mitsubishi",
+  "Modell": "Outlander",
+  "GyartasiEv": 2019,
+  "Szin": "Zöld",
+  "Motortipus": "Hibrid",
+  "VetelAr": 5400000,
+  "EladasiAr": 6700000,
+  "EladasDatuma": {
+    "$date": "2023-03-29T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Szabó",
+    "Keresztnev": "Zsolt",
+    "Iranyitoszam": 9024,
+    "Varos": "Győr",
+    "Utca": "Radó út",
+    "Hazszam": 22,
+    "Email": "zsolt.szabo@hotmail.com",
+    "Telefonszam": 363056724
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef086"
+  },
+  "AutoID": 39,
+  "Marka": "Audi",
+  "Modell": "Q5",
+  "GyartasiEv": 2017,
+  "Szin": "Fekete",
+  "Motortipus": "Dízel",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef087"
+  },
+  "AutoID": 40,
+  "Marka": "BMW",
+  "Modell": "X3",
+  "GyartasiEv": 2015,
+  "Szin": "Fehér",
+  "Motortipus": "Dízel",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef088"
+  },
+  "AutoID": 41,
+  "Marka": "Ford",
+  "Modell": "Kuga",
+  "GyartasiEv": 2016,
+  "Szin": "Ezüst",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef089"
+  },
+  "AutoID": 42,
+  "Marka": "Opel",
+  "Modell": "Mokka",
+  "GyartasiEv": 2013,
+  "Szin": "Fekete",
+  "Motortipus": "Benzin",
+  "VetelAr": 2400000,
+  "EladasiAr": 3000000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-01-11T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      92000
+    ],
+    "SzervizLeiras": [
+      "Vezérműszíj csere"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2023-02-08T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Horváth",
+    "Keresztnev": "Ágnes",
+    "Iranyitoszam": 9024,
+    "Varos": "Győr",
+    "Utca": "Kisfaludy utca",
+    "Hazszam": 4,
+    "Email": "agnes.horvath@gmail.com",
+    "Telefonszam": 363089018
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef08a"
+  },
+  "AutoID": 43,
+  "Marka": "Toyota",
+  "Modell": "RAV4",
+  "GyartasiEv": 2018,
+  "Szin": "Fehér",
+  "Motortipus": "Hibrid",
+  "VetelAr": 5400000,
+  "EladasiAr": 6700000,
+  "EladasDatuma": {
+    "$date": "2023-05-07T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Nagy",
+    "Keresztnev": "Judit",
+    "Iranyitoszam": 6724,
+    "Varos": "Szeged",
+    "Utca": "Roosevelt tér",
+    "Hazszam": 7,
+    "Email": "judit.nagy@outlook.com",
+    "Telefonszam": 367092123
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef08b"
+  },
+  "AutoID": 44,
+  "Marka": "Mercedes-Benz",
+  "Modell": "GLC Osztály",
+  "GyartasiEv": 2017,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000,
+  "EladasDatuma": {
+    "$date": "2022-11-25T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kiss",
+    "Keresztnev": "Máté",
+    "Iranyitoszam": 9024,
+    "Varos": "Győr",
+    "Utca": "Baross utca",
+    "Hazszam": 9,
+    "Email": "mate_kiss@citromail.hu",
+    "Telefonszam": 363058789
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef08c"
+  },
+  "AutoID": 45,
+  "Marka": "Renault",
+  "Modell": "Kadjar",
+  "GyartasiEv": 2016,
+  "Szin": "Kék",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-01-20T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      20000
+    ],
+    "SzervizLeiras": [
+      "Légkondicionáló töltés"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef08d"
+  },
+  "AutoID": 46,
+  "Marka": "Volkswagen",
+  "Modell": "Tiguan",
+  "GyartasiEv": 2019,
+  "Szin": "Fehér",
+  "Motortipus": "Dízel",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000,
+  "EladasDatuma": {
+    "$date": "2022-05-12T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kovács",
+    "Keresztnev": "Gábor",
+    "Iranyitoszam": 9024,
+    "Varos": "Győr",
+    "Utca": "Radó út",
+    "Hazszam": 14,
+    "Email": "gabor.kovacs@outlook.com",
+    "Telefonszam": 362034457
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef08e"
+  },
+  "AutoID": 47,
+  "Marka": "Suzuki",
+  "Modell": "SX4 S-Cross",
+  "GyartasiEv": 2014,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 2400000,
+  "EladasiAr": 3000000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-10-08T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      54000
+    ],
+    "SzervizLeiras": [
+      "Kipufogórendszer javítás"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2023-07-23T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Nagy",
+    "Keresztnev": "Gréta",
+    "Iranyitoszam": 1027,
+    "Varos": "Budapest",
+    "Utca": "Bartók Béla út",
+    "Hazszam": 11,
+    "Email": "greta.nagy@yahoo.com",
+    "Telefonszam": 363067846
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef08f"
+  },
+  "AutoID": 48,
+  "Marka": "Fiat",
+  "Modell": "500X",
+  "GyartasiEv": 2018,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "EladasDatuma": {
+    "$date": "2022-07-29T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Nagy",
+    "Keresztnev": "Dóra",
+    "Iranyitoszam": 4400,
+    "Varos": "Nyíregyháza",
+    "Utca": "Berzsenyi tér",
+    "Hazszam": 16,
+    "Email": "dora.nagy@hotmail.com",
+    "Telefonszam": 367047489
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef090"
+  },
+  "AutoID": 49,
+  "Marka": "Peugeot",
+  "Modell": "3008",
+  "GyartasiEv": 2017,
+  "Szin": "Fekete",
+  "Motortipus": "Dízel",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2023-02-11T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      68000
+    ],
+    "SzervizLeiras": [
+      "Vezérműszíj csere"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef091"
+  },
+  "AutoID": 50,
+  "Marka": "Nissan",
+  "Modell": "X-Trail",
+  "GyartasiEv": 2016,
+  "Szin": "Ezüst",
+  "Motortipus": "Dízel",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-03-15T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      46000
+    ],
+    "SzervizLeiras": [
+      "Fékrendszer ellenőrzése"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef092"
+  },
+  "AutoID": 51,
+  "Marka": "Skoda",
+  "Modell": "Kodiaq",
+  "GyartasiEv": 2019,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 5400000,
+  "EladasiAr": 6700000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef093"
+  },
+  "AutoID": 52,
+  "Marka": "Hyundai",
+  "Modell": "Santa Fe",
+  "GyartasiEv": 2015,
+  "Szin": "Piros",
+  "Motortipus": "Dízel",
+  "VetelAr": 4500000,
+  "EladasiAr": 5700000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-09-25T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      48000
+    ],
+    "SzervizLeiras": [
+      "Üzemanyag-szűrő csere"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2022-06-25T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kovács",
+    "Keresztnev": "Dávid",
+    "Iranyitoszam": 1052,
+    "Varos": "Budapest",
+    "Utca": "Bécsi út",
+    "Hazszam": 22,
+    "Email": "david.kovacs@yahoo.com",
+    "Telefonszam": 362035647
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef094"
+  },
+  "AutoID": 53,
+  "Marka": "Kia",
+  "Modell": "Sorento",
+  "GyartasiEv": 2018,
+  "Szin": "Fehér",
+  "Motortipus": "Benzin",
+  "VetelAr": 5400000,
+  "EladasiAr": 6700000,
+  "EladasDatuma": {
+    "$date": "2022-10-22T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Tóth",
+    "Keresztnev": "Franciska",
+    "Iranyitoszam": 1117,
+    "Varos": "Budapest",
+    "Utca": "Andrássy út",
+    "Hazszam": 15,
+    "Email": "franciska.toth@gmail.com",
+    "Telefonszam": 362052953
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef095"
+  },
+  "AutoID": 54,
+  "Marka": "Mazda",
+  "Modell": "CX-7",
+  "GyartasiEv": 2011,
+  "Szin": "Ezüst",
+  "Motortipus": "Benzin",
+  "VetelAr": 2100000,
+  "EladasiAr": 2700000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-12-01T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      64000
+    ],
+    "SzervizLeiras": [
+      "Üzemanyag-szűrő csere"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef096"
+  },
+  "AutoID": 55,
+  "Marka": "Honda",
+  "Modell": "CR-V",
+  "GyartasiEv": 2016,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 4500000,
+  "EladasiAr": 5700000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef097"
+  },
+  "AutoID": 56,
+  "Marka": "Mitsubishi",
+  "Modell": "ASX",
+  "GyartasiEv": 2018,
+  "Szin": "Fekete",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-08-06T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      35000
+    ],
+    "SzervizLeiras": [
+      "Motorolaj és szűrők cseréje"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef098"
+  },
+  "AutoID": 57,
+  "Marka": "Audi",
+  "Modell": "Q3",
+  "GyartasiEv": 2017,
+  "Szin": "Fehér",
+  "Motortipus": "Dízel",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef099"
+  },
+  "AutoID": 58,
+  "Marka": "BMW",
+  "Modell": "X1",
+  "GyartasiEv": 2014,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 4200000,
+  "EladasiAr": 5400000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef09a"
+  },
+  "AutoID": 59,
+  "Marka": "Ford",
+  "Modell": "EcoSport",
+  "GyartasiEv": 2016,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-04-12T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      68000
+    ],
+    "SzervizLeiras": [
+      "Akkumulátor csere"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2023-04-28T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Szabó",
+    "Keresztnev": "Balázs",
+    "Iranyitoszam": 6726,
+    "Varos": "Szeged",
+    "Utca": "Roosevelt tér",
+    "Hazszam": 9,
+    "Email": "balazs.szabo@gmail.com",
+    "Telefonszam": 367096374
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef09b"
+  },
+  "AutoID": 60,
+  "Marka": "Opel",
+  "Modell": "Crossland X",
+  "GyartasiEv": 2019,
+  "Szin": "Fehér",
+  "Motortipus": "Benzin",
+  "VetelAr": 5400000,
+  "EladasiAr": 6700000,
+  "EladasDatuma": {
+    "$date": "2023-07-05T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Nagy",
+    "Keresztnev": "Emese",
+    "Iranyitoszam": 1027,
+    "Varos": "Budapest",
+    "Utca": "József körút",
+    "Hazszam": 3,
+    "Email": "emese.nagy@gmail.com",
+    "Telefonszam": 362038867
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef09c"
+  },
+  "AutoID": 61,
+  "Marka": "Toyota",
+  "Modell": "C-HR",
+  "GyartasiEv": 2017,
+  "Szin": "Ezüst",
+  "Motortipus": "Hibrid",
+  "VetelAr": 5400000,
+  "EladasiAr": 6700000,
+  "Szerviz": {
+    "SzervizDatum": [
+      
+      {"$date": "2021-05-10T00:00:00.000Z"},
+      {"$date": "2021-11-27T00:00:00.000Z"}
+      
+    ],
+    "SzervizKoltseg": [
+      48000,
+      55000
+
+    ],
+    "SzervizLeiras": [
+      "Kipufogógáz-ellenőrzés",
+      "Kormányműszivattyú csere"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2022-04-18T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Nagy",
+    "Keresztnev": "Levente",
+    "Iranyitoszam": 6720,
+    "Varos": "Szeged",
+    "Utca": "Arany János utca",
+    "Hazszam": 3,
+    "Email": "levente.nagy@yahoo.com",
+    "Telefonszam": 367090123
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef09d"
+  },
+  "AutoID": 62,
+  "Marka": "Mercedes-Benz",
+  "Modell": "GLA Osztály",
+  "GyartasiEv": 2016,
+  "Szin": "Kék",
+  "Motortipus": "Benzin",
+  "VetelAr": 4200000,
+  "EladasiAr": 5400000,
+  "EladasDatuma": {
+    "$date": "2022-08-02T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Szabó",
+    "Keresztnev": "Enikő",
+    "Iranyitoszam": 4400,
+    "Varos": "Nyíregyháza",
+    "Utca": "Jókai utca",
+    "Hazszam": 15,
+    "Email": "eniko.szabo@gmail.com",
+    "Telefonszam": 367089013
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef09e"
+  },
+  "AutoID": 63,
+  "Marka": "Renault",
+  "Modell": "Captur",
+  "GyartasiEv": 2018,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef09f"
+  },
+  "AutoID": 64,
+  "Marka": "Volkswagen",
+  "Modell": "T-Roc",
+  "GyartasiEv": 2019,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 5400000,
+  "EladasiAr": 6700000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2023-02-20T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      91000
+    ],
+    "SzervizLeiras": [
+      "Kipufogórendszer javítás"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0a0"
+  },
+  "AutoID": 65,
+  "Marka": "Suzuki",
+  "Modell": "Ignis",
+  "GyartasiEv": 2017,
+  "Szin": "Kék",
+  "Motortipus": "Benzin",
+  "VetelAr": 3300000,
+  "EladasiAr": 4200000,
+  "EladasDatuma": {
+    "$date": "2023-01-31T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kovács",
+    "Keresztnev": "László",
+    "Iranyitoszam": 1051,
+    "Varos": "Budapest",
+    "Utca": "Deák Ferenc tér",
+    "Hazszam": 21,
+    "Email": "laszlo.kovacs@t-online.hu",
+    "Telefonszam": 362034367
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0a1"
+  },
+  "AutoID": 66,
+  "Marka": "Fiat",
+  "Modell": "500L",
+  "GyartasiEv": 2016,
+  "Szin": "Fehér",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "EladasDatuma": {
+    "$date": "2022-11-16T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Horváth",
+    "Keresztnev": "Márton",
+    "Iranyitoszam": 6722,
+    "Varos": "Szeged",
+    "Utca": "Dugonics tér",
+    "Hazszam": 12,
+    "Email": "marton.horvath@gmail.com",
+    "Telefonszam": 367056252
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0a2"
+  },
+  "AutoID": 67,
+  "Marka": "Peugeot",
+  "Modell": "2008",
+  "GyartasiEv": 2018,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "EladasDatuma": {
+    "$date": "2023-04-06T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Tóth",
+    "Keresztnev": "Franciska",
+    "Iranyitoszam": 1117,
+    "Varos": "Budapest",
+    "Utca": "Andrássy út",
+    "Hazszam": 15,
+    "Email": "franciska.toth@gmail.com",
+    "Telefonszam": 362052953
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0a3"
+  },
+  "AutoID": 68,
+  "Marka": "Nissan",
+  "Modell": "Juke",
+  "GyartasiEv": 2015,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 2100000,
+  "EladasiAr": 2700000,
+  "Szerviz": {
+    "SzervizDatum": [
+      
+      {"$date": "2021-02-17T00:00:00.000Z"},
+      {"$date": "2022-07-01T00:00:00.000Z"}
+      
+    ],
+    "SzervizKoltseg": [
+      63000,
+      89000
+    ],
+    "SzervizLeiras": [
+      "Kormányműszivattyú csere",
+      "Kormánymű javítás"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0a4"
+  },
+  "AutoID": 69,
+  "Marka": "Skoda",
+  "Modell": "Kamiq",
+  "GyartasiEv": 2019,
+  "Szin": "Kék",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-05-26T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      89000
+    ],
+    "SzervizLeiras": [
+      "Kormánymű javítás"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2023-07-14T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Szabó",
+    "Keresztnev": "Balázs",
+    "Iranyitoszam": 6726,
+    "Varos": "Szeged",
+    "Utca": "Roosevelt tér",
+    "Hazszam": 9,
+    "Email": "balazs.szabo@gmail.com",
+    "Telefonszam": 367096374
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0a5"
+  },
+  "AutoID": 70,
+  "Marka": "Hyundai",
+  "Modell": "Kona",
+  "GyartasiEv": 2017,
+  "Szin": "Fehér",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-05-08T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      40000
+    ],
+    "SzervizLeiras": [
+      "Üzemanyag-szűrő csere"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2022-06-03T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kovács",
+    "Keresztnev": "Zoltán",
+    "Iranyitoszam": 6726,
+    "Varos": "Szeged",
+    "Utca": "Roosevelt tér",
+    "Hazszam": 5,
+    "Email": "zoltan.kovacs@gmail.com",
+    "Telefonszam": 367000123
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0a6"
+  },
+  "AutoID": 71,
+  "Marka": "Kia",
+  "Modell": "Stonic",
+  "GyartasiEv": 2018,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "EladasDatuma": {
+    "$date": "2022-09-23T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kiss",
+    "Keresztnev": "Dávid",
+    "Iranyitoszam": 9021,
+    "Varos": "Győr",
+    "Utca": "Aradi vértanúk tere",
+    "Hazszam": 11,
+    "Email": "david.kiss@web.de",
+    "Telefonszam": 363056389
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0a7"
+  },
+  "AutoID": 72,
+  "Marka": "Mazda",
+  "Modell": "CX-3",
+  "GyartasiEv": 2016,
+  "Szin": "Kék",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      
+      {"$date": "2021-08-21T00:00:00.000Z"},
+      {"$date": "2022-11-13T00:00:00.000Z"}
+      
+    ],
+    "SzervizKoltseg": [
+      57000,
+      90000
+    ],
+    "SzervizLeiras": [
+      "Kipufogógáz-ellenőrzés",
+      "Vezérműszíj csere"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2023-08-20T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Papp",
+    "Keresztnev": "Kata",
+    "Iranyitoszam": 2800,
+    "Varos": "Tatabánya",
+    "Utca": "Ady Endre út",
+    "Hazszam": 31,
+    "Email": "kata_papp@web.de",
+    "Telefonszam": 363089011
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0a8"
+  },
+  "AutoID": 73,
+  "Marka": "Honda",
+  "Modell": "HR-V",
+  "GyartasiEv": 2019,
+  "Szin": "Fehér",
+  "Motortipus": "Benzin",
+  "VetelAr": 5400000,
+  "EladasiAr": 6700000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0a9"
+  },
+  "AutoID": 74,
+  "Marka": "Mitsubishi",
+  "Modell": "Eclipse Cross",
+  "GyartasiEv": 2017,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "EladasDatuma": {
+    "$date": "2023-08-01T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Szabó",
+    "Keresztnev": "Imola",
+    "Iranyitoszam": 6726,
+    "Varos": "Szeged",
+    "Utca": "Roosevelt tér",
+    "Hazszam": 4,
+    "Email": "imola.szabo@hotmail.com",
+    "Telefonszam": 362062890
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0aa"
+  },
+  "AutoID": 75,
+  "Marka": "Audi",
+  "Modell": "A1",
+  "GyartasiEv": 2018,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "EladasDatuma": {
+    "$date": "2023-06-12T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Nagy",
+    "Keresztnev": "Laura",
+    "Iranyitoszam": 4400,
+    "Varos": "Nyíregyháza",
+    "Utca": "Bajcsy-Zsilinszky út",
+    "Hazszam": 18,
+    "Email": "laura.nagy@yahoo.com",
+    "Telefonszam": 363062412
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0ab"
+  },
+  "AutoID": 76,
+  "Marka": "BMW",
+  "Modell": "1 Sorozat",
+  "GyartasiEv": 2015,
+  "Szin": "Fekete",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "EladasDatuma": {
+    "$date": "2023-01-13T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Szabó",
+    "Keresztnev": "Gábor",
+    "Iranyitoszam": 6724,
+    "Varos": "Szeged",
+    "Utca": "Petőfi Sándor u.",
+    "Hazszam": 18,
+    "Email": "szabogabi@hotmail.com",
+    "Telefonszam": 367012347
+  }
+
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0ac"
+  },
+  "AutoID": 77,
+  "Marka": "Ford",
+  "Modell": "Fiesta",
+  "GyartasiEv": 2017,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "EladasDatuma": {
+    "$date": "2022-04-03T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kiss",
+    "Keresztnev": "Gábor",
+    "Iranyitoszam": 6726,
+    "Varos": "Szeged",
+    "Utca": "Gutenberg tér",
+    "Hazszam": 8,
+    "Email": "gabor.kiss@freemail.hu",
+    "Telefonszam": 367093123
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0ad"
+  },
+  "AutoID": 78,
+  "Marka": "Opel",
+  "Modell": "Adam",
+  "GyartasiEv": 2016,
+  "Szin": "Fehér",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-08-03T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      42000
+    ],
+    "SzervizLeiras": [
+      "Fényszórók beállítása és tisztítása"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2022-07-13T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kovács",
+    "Keresztnev": "Jázmin",
+    "Iranyitoszam": 1052,
+    "Varos": "Budapest",
+    "Utca": "Kossuth Lajos utca",
+    "Hazszam": 18,
+    "Email": "jazmin.kovacs@citromail.hu",
+    "Telefonszam": 362076543
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0ae"
+  },
+  "AutoID": 79,
+  "Marka": "Toyota",
+  "Modell": "Yaris",
+  "GyartasiEv": 2019,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 5400000,
+  "EladasiAr": 6700000,
+  "EladasDatuma": {
+    "$date": "2023-03-15T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kovács",
+    "Keresztnev": "Gábor",
+    "Iranyitoszam": 9024,
+    "Varos": "Győr",
+    "Utca": "Radó út",
+    "Hazszam": 14,
+    "Email": "gabor.kovacs@outlook.com",
+    "Telefonszam": 362034457
+  }
+
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0af"
+  },
+  "AutoID": 80,
+  "Marka": "Mercedes-Benz",
+  "Modell": "A Osztály",
+  "GyartasiEv": 2018,
+  "Szin": "Fekete",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-11-09T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      88000
+    ],
+    "SzervizLeiras": [
+      "Hűtőrendszer nagyszerviz"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2022-10-04T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Szabó",
+    "Keresztnev": "Attila",
+    "Iranyitoszam": 9021,
+    "Varos": "Győr",
+    "Utca": "Bécsi út",
+    "Hazszam": 13,
+    "Email": "attila.szabo@web.de",
+    "Telefonszam": 363056489
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0b0"
+  },
+  "AutoID": 81,
+  "Marka": "Renault",
+  "Modell": "Twingo",
+  "GyartasiEv": 2015,
+  "Szin": "Kék",
+  "Motortipus": "Benzin",
+  "VetelAr": 2100000,
+  "EladasiAr": 2700000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0b1"
+  },
+  "AutoID": 82,
+  "Marka": "Volkswagen",
+  "Modell": "Polo",
+  "GyartasiEv": 2017,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-02-07T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      48000
+    ],
+    "SzervizLeiras": [
+      "Üzemanyag-szűrő csere"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2022-05-16T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Nagy",
+    "Keresztnev": "Zsuzsanna",
+    "Iranyitoszam": 1027,
+    "Varos": "Budapest",
+    "Utca": "Andrássy út",
+    "Hazszam": 17,
+    "Email": "zsuzsanna.nagy@citromail.hu",
+    "Telefonszam": 362034517
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0b2"
+  },
+  "AutoID": 83,
+  "Marka": "Suzuki",
+  "Modell": "Swift",
+  "GyartasiEv": 2016,
+  "Szin": "Fehér",
+  "Motortipus": "Benzin",
+  "VetelAr": 3300000,
+  "EladasiAr": 4200000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-04-29T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      20000
+    ],
+    "SzervizLeiras": [
+      "Légkondicionáló töltés"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0b3"
+  },
+  "AutoID": 84,
+  "Marka": "Fiat",
+  "Modell": "500",
+  "GyartasiEv": 2019,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-01-05T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      55000
+    ],
+    "SzervizLeiras": [
+      "Futómű ellenőrzése"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2022-08-10T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Tóth",
+    "Keresztnev": "Anna",
+    "Iranyitoszam": 4400,
+    "Varos": "Nyíregyháza",
+    "Utca": "Széchenyi tér",
+    "Hazszam": 15,
+    "Email": "anna.toth@gmail.com",
+    "Telefonszam": 363067891
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0b4"
+  },
+  "AutoID": 85,
+  "Marka": "Peugeot",
+  "Modell": "208",
+  "GyartasiEv": 2017,
+  "Szin": "Ezüst",
+  "Motortipus": "Benzin",
+  "VetelAr": 3300000,
+  "EladasiAr": 4200000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-09-02T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      72000
+    ],
+    "SzervizLeiras": [
+      "Motorolaj és szűrők cseréje"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0b5"
+  },
+  "AutoID": 86,
+  "Marka": "Nissan",
+  "Modell": "Micra",
+  "GyartasiEv": 2016,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 1500000,
+  "EladasiAr": 2100000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-10-13T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      53000
+    ],
+    "SzervizLeiras": [
+      "Kipufogórendszer javítás"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0b6"
+  },
+  "AutoID": 87,
+  "Marka": "Skoda",
+  "Modell": "Fabia",
+  "GyartasiEv": 2018,
+  "Szin": "Kék",
+  "Motortipus": "Benzin",
+  "VetelAr": 3300000,
+  "EladasiAr": 4200000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0b7"
+  },
+  "AutoID": 88,
+  "Marka": "Hyundai",
+  "Modell": "i20",
+  "GyartasiEv": 2017,
+  "Szin": "Fehér",
+  "Motortipus": "Benzin",
+  "VetelAr": 3300000,
+  "EladasiAr": 4200000,
+  "EladasDatuma": {
+    "$date": "2022-12-26T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Szabó",
+    "Keresztnev": "Krisztián",
+    "Iranyitoszam": 6722,
+    "Varos": "Szeged",
+    "Utca": "Kárász utca",
+    "Hazszam": 15,
+    "Email": "krisztian.szabo@gmail.com",
+    "Telefonszam": 362063529
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0b8"
+  },
+  "AutoID": 89,
+  "Marka": "Kia",
+  "Modell": "Rio",
+  "GyartasiEv": 2015,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 1200000,
+  "EladasiAr": 1800000,
+  "Szerviz": {
+    "SzervizDatum": [
+      
+      {"$date": "2021-06-05T00:00:00.000Z"},
+      {"$date": "2022-12-10T00:00:00.000Z"}
+      
+    ],
+    "SzervizKoltseg": [
+      32000,
+      87000
+    ],
+    "SzervizLeiras": [
+      "Olaj és olajszűrő csere",
+      "Hűtőrendszer nagyszerviz"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2023-05-12T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Nagy",
+    "Keresztnev": "Dóra",
+    "Iranyitoszam": 4400,
+    "Varos": "Nyíregyháza",
+    "Utca": "Berzsenyi tér",
+    "Hazszam": 16,
+    "Email": "dora.nagy@hotmail.com",
+    "Telefonszam": 367047489
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0b9"
+  },
+  "AutoID": 90,
+  "Marka": "Mazda",
+  "Modell": 2,
+  "GyartasiEv": 2018,
+  "Szin": "Fehér",
+  "Motortipus": "Benzin",
+  "VetelAr": 3300000,
+  "EladasiAr": 4200000,
+  "EladasDatuma": {
+    "$date": "2022-09-13T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kovács",
+    "Keresztnev": "Dóra",
+    "Iranyitoszam": 9024,
+    "Varos": "Győr",
+    "Utca": "Aradi vértanúk tere",
+    "Hazszam": 8,
+    "Email": "dora.kovacs@freemail.hu",
+    "Telefonszam": 363089012
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0ba"
+  },
+  "AutoID": 91,
+  "Marka": "Honda",
+  "Modell": "Jazz",
+  "GyartasiEv": 2017,
+  "Szin": "Kék",
+  "Motortipus": "Benzin",
+  "VetelAr": 3300000,
+  "EladasiAr": 4200000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-01-02T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      78000
+    ],
+    "SzervizLeiras": [
+      "Akkumulátor csere"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2023-06-30T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Tóth",
+    "Keresztnev": "Károly",
+    "Iranyitoszam": 1117,
+    "Varos": "Budapest",
+    "Utca": "Fehérvári út",
+    "Hazszam": 13,
+    "Email": "karoly.toth@outlook.com",
+    "Telefonszam": 367008500
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0bb"
+  },
+  "AutoID": 92,
+  "Marka": "Mitsubishi",
+  "Modell": "Colt",
+  "GyartasiEv": 2014,
+  "Szin": "Ezüst",
+  "Motortipus": "Benzin",
+  "VetelAr": 1500000,
+  "EladasiAr": 2100000,
+  "EladasDatuma": {
+    "$date": "2023-04-02T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Horváth",
+    "Keresztnev": "Emília",
+    "Iranyitoszam": 9021,
+    "Varos": "Győr",
+    "Utca": "Berzsenyi tér",
+    "Hazszam": 19,
+    "Email": "emilia.horvath@citromail.hu",
+    "Telefonszam": 363069696
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0bc"
+  },
+  "AutoID": 93,
+  "Marka": "Audi",
+  "Modell": "A3",
+  "GyartasiEv": 2019,
+  "Szin": "Barna",
+  "Motortipus": "Dízel",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000,
+  "EladasDatuma": {
+    "$date": "2022-04-09T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kovács",
+    "Keresztnev": "Réka",
+    "Iranyitoszam": 6728,
+    "Varos": "Szeged",
+    "Utca": "Móra Ferenc tér",
+    "Hazszam": 5,
+    "Email": "reka.kovacs@yahoo.com",
+    "Telefonszam": 367090156
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0bd"
+  },
+  "AutoID": 94,
+  "Marka": "BMW",
+  "Modell": "3 Sorozat",
+  "GyartasiEv": 2017,
+  "Szin": "Piros",
+  "Motortipus": "Dízel",
+  "VetelAr": 4500000,
+  "EladasiAr": 5700000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-12-24T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      52000
+    ],
+    "SzervizLeiras": [
+      "Üzemanyag-szűrő csere"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2022-07-09T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Nagy",
+    "Keresztnev": "Laura",
+    "Iranyitoszam": 4400,
+    "Varos": "Nyíregyháza",
+    "Utca": "Bajcsy-Zsilinszky út",
+    "Hazszam": 18,
+    "Email": "laura.nagy@yahoo.com",
+    "Telefonszam": 363062412
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0be"
+  },
+  "AutoID": 95,
+  "Marka": "Ford",
+  "Modell": "Focus",
+  "GyartasiEv": 2018,
+  "Szin": "Fehér",
+  "Motortipus": "Benzin",
+  "VetelAr": 3300000,
+  "EladasiAr": 4200000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0bf"
+  },
+  "AutoID": 96,
+  "Marka": "Opel",
+  "Modell": "Corsa",
+  "GyartasiEv": 2016,
+  "Szin": "Kék",
+  "Motortipus": "Benzin",
+  "VetelAr": 3000000,
+  "EladasiAr": 3900000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0c0"
+  },
+  "AutoID": 97,
+  "Marka": "Tesla",
+  "Modell": "Model S",
+  "GyartasiEv": 2019,
+  "Szin": "Fekete",
+  "Motortipus": "Elektromos",
+  "VetelAr": 25000000,
+  "EladasiAr": 30000000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0c1"
+  },
+  "AutoID": 98,
+  "Marka": "Toyota",
+  "Modell": "Corolla",
+  "GyartasiEv": 2020,
+  "Szin": "Világoskék",
+  "Motortipus": "Hibrid",
+  "VetelAr": 5400000,
+  "EladasiAr": 6700000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0c2"
+  },
+  "AutoID": 99,
+  "Marka": "Nissan",
+  "Modell": "Leaf",
+  "GyartasiEv": 2018,
+  "Szin": "Zöld",
+  "Motortipus": "Elektromos",
+  "VetelAr": 7500000,
+  "EladasiAr": 9000000,
+  "EladasDatuma": {
+    "$date": "2022-11-29T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kiss",
+    "Keresztnev": "Dávid",
+    "Iranyitoszam": 9021,
+    "Varos": "Győr",
+    "Utca": "Aradi vértanúk tere",
+    "Hazszam": 11,
+    "Email": "david.kiss@web.de",
+    "Telefonszam": 363056389
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0c3"
+  },
+  "AutoID": 100,
+  "Marka": "Renault",
+  "Modell": "Zoe",
+  "GyartasiEv": 2017,
+  "Szin": "Narancssárga",
+  "Motortipus": "Elektromos",
+  "VetelAr": 7500000,
+  "EladasiAr": 9000000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-11-22T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      38000
+    ],
+    "SzervizLeiras": [
+      "Légkondicionáló töltés"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2022-04-21T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0c4"
+  },
+  "AutoID": 101,
+  "Marka": "Tesla",
+  "Modell": "Model 3",
+  "GyartasiEv": 2018,
+  "Szin": "Fehér",
+  "Motortipus": "Elektromos",
+  "VetelAr": 20000000,
+  "EladasiAr": 25000000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-03-24T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      88000
+    ],
+    "SzervizLeiras": [
+      "Hűtőrendszer nagyszerviz"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2022-08-23T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Nagy",
+    "Keresztnev": "Gergő",
+    "Iranyitoszam": 6000,
+    "Varos": "Kecskemét",
+    "Utca": "Kossuth tér",
+    "Hazszam": 3,
+    "Email": "gergo.nagy@protonmail.com",
+    "Telefonszam": 367090328
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0c5"
+  },
+  "AutoID": 102,
+  "Marka": "BMW",
+  "Modell": "i3",
+  "GyartasiEv": 2019,
+  "Szin": "Narancssárga",
+  "Motortipus": "Elektromos",
+  "VetelAr": 12000000,
+  "EladasiAr": 15000000,
+  "EladasDatuma": {
+    "$date": "2023-04-20T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kovács",
+    "Keresztnev": "György",
+    "Iranyitoszam": 6726,
+    "Varos": "Szeged",
+    "Utca": "Petőfi Sándor sugárút",
+    "Hazszam": 6,
+    "Email": "gyorgy.kovacs@yahoo.com",
+    "Telefonszam": 367090173
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0c6"
+  },
+  "AutoID": 103,
+  "Marka": "Audi",
+  "Modell": "e-tron",
+  "GyartasiEv": 2020,
+  "Szin": "Ezüst",
+  "Motortipus": "Elektromos",
+  "VetelAr": 30000000,
+  "EladasiAr": 35000000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-03-21T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      76000
+    ],
+    "SzervizLeiras": [
+      "Motorolaj és szűrők cseréje"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2022-12-13T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Tóth",
+    "Keresztnev": "Anna",
+    "Iranyitoszam": 4400,
+    "Varos": "Nyíregyháza",
+    "Utca": "Széchenyi tér",
+    "Hazszam": 15,
+    "Email": "anna.toth@gmail.com",
+    "Telefonszam": 363067891
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0c7"
+  },
+  "AutoID": 104,
+  "Marka": "Hyundai",
+  "Modell": "Kona Electric",
+  "GyartasiEv": 2019,
+  "Szin": "Zöld",
+  "Motortipus": "Elektromos",
+  "VetelAr": 7500000,
+  "EladasiAr": 9000000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-04-11T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      55000
+    ],
+    "SzervizLeiras": [
+      "Kormányműszivattyú csere"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2022-05-29T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Horváth",
+    "Keresztnev": "János",
+    "Iranyitoszam": 9024,
+    "Varos": "Győr",
+    "Utca": "Aradi vértanúk tere",
+    "Hazszam": 21,
+    "Email": "janos.horvath@gmail.com",
+    "Telefonszam": 363089420
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0c8"
+  },
+  "AutoID": 105,
+  "Marka": "Kia",
+  "Modell": "Soul EV",
+  "GyartasiEv": 2017,
+  "Szin": "Sárga",
+  "Motortipus": "Elektromos",
+  "VetelAr": 7500000,
+  "EladasiAr": 9000000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-09-16T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      64000
+    ],
+    "SzervizLeiras": [
+      "Légkondicionáló töltés"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2023-06-21T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Szabó",
+    "Keresztnev": "Roland",
+    "Iranyitoszam": 1117,
+    "Varos": "Budapest",
+    "Utca": "Bajcsy-Zsilinszky út",
+    "Hazszam": 8,
+    "Email": "roland.szabo@gmail.com",
+    "Telefonszam": 362034167
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0c9"
+  },
+  "AutoID": 106,
+  "Marka": "Volkswagen",
+  "Modell": "ID.3",
+  "GyartasiEv": 2020,
+  "Szin": "Világoskék",
+  "Motortipus": "Elektromos",
+  "VetelAr": 9000000,
+  "EladasiAr": 12000000,
+  "EladasDatuma": {
+    "$date": "2023-08-15T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Nagy",
+    "Keresztnev": "Emese",
+    "Iranyitoszam": 1027,
+    "Varos": "Budapest",
+    "Utca": "József körút",
+    "Hazszam": 3,
+    "Email": "emese.nagy@gmail.com",
+    "Telefonszam": 362038867
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0ca"
+  },
+  "AutoID": 107,
+  "Marka": "Nissan",
+  "Modell": "Ariya",
+  "GyartasiEv": 2021,
+  "Szin": "Piros",
+  "Motortipus": "Elektromos",
+  "VetelAr": 12000000,
+  "EladasiAr": 15000000,
+  "EladasDatuma": {
+    "$date": "2022-10-18T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Horváth",
+    "Keresztnev": "Brigitta",
+    "Iranyitoszam": 1052,
+    "Varos": "Budapest",
+    "Utca": "Károly körút",
+    "Hazszam": 16,
+    "Email": "brigitta.horvath@outlook.com",
+    "Telefonszam": 367087012
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0cb"
+  },
+  "AutoID": 108,
+  "Marka": "Ford",
+  "Modell": "Mustang Mach-E",
+  "GyartasiEv": 2021,
+  "Szin": "Fekete",
+  "Motortipus": "Elektromos",
+  "VetelAr": 15000000,
+  "EladasiAr": 20000000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2023-01-15T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      54000
+    ],
+    "SzervizLeiras": [
+      "Motorolaj és szűrők cseréje"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0cc"
+  },
+  "AutoID": 109,
+  "Marka": "Porsche",
+  "Modell": "Taycan",
+  "GyartasiEv": 2020,
+  "Szin": "Barna",
+  "Motortipus": "Elektromos",
+  "VetelAr": 35000000,
+  "EladasiAr": 40000000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-06-04T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      57000
+    ],
+    "SzervizLeiras": [
+      "Fényszóró beállítás"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2023-05-29T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Horváth",
+    "Keresztnev": "Emília",
+    "Iranyitoszam": 9021,
+    "Varos": "Győr",
+    "Utca": "Berzsenyi tér",
+    "Hazszam": 19,
+    "Email": "emilia.horvath@citromail.hu",
+    "Telefonszam": 363069696
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0cd"
+  },
+  "AutoID": 110,
+  "Marka": "Tesla",
+  "Modell": "Model X",
+  "GyartasiEv": 2019,
+  "Szin": "Fehér",
+  "Motortipus": "Elektromos",
+  "VetelAr": 25000000,
+  "EladasiAr": 30000000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-01-12T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      72000
+    ],
+    "SzervizLeiras": [
+      "Elektromos rendszer javítása"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2023-02-13T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Nagy",
+    "Keresztnev": "Emese",
+    "Iranyitoszam": 1027,
+    "Varos": "Budapest",
+    "Utca": "József körút",
+    "Hazszam": 3,
+    "Email": "emese.nagy@gmail.com",
+    "Telefonszam": 362038867
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0ce"
+  },
+  "AutoID": 111,
+  "Marka": "Audi",
+  "Modell": "A3",
+  "GyartasiEv": 2015,
+  "Szin": "Ezüst",
+  "Motortipus": "Dízel",
+  "VetelAr": 4500000,
+  "EladasiAr": 5700000,
+  "EladasDatuma": {
+    "$date": "2022-06-22T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Szabó",
+    "Keresztnev": "Balázs",
+    "Iranyitoszam": 6726,
+    "Varos": "Szeged",
+    "Utca": "Roosevelt tér",
+    "Hazszam": 9,
+    "Email": "balazs.szabo@gmail.com",
+    "Telefonszam": 367096374
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0cf"
+  },
+  "AutoID": 112,
+  "Marka": "BMW",
+  "Modell": "3 Sorozat",
+  "GyartasiEv": 2016,
+  "Szin": "Fekete",
+  "Motortipus": "Benzin",
+  "VetelAr": 4500000,
+  "EladasiAr": 5700000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0d0"
+  },
+  "AutoID": 113,
+  "Marka": "Ford",
+  "Modell": "Focus",
+  "GyartasiEv": 2018,
+  "Szin": "Kék",
+  "Motortipus": "Benzin",
+  "VetelAr": 3300000,
+  "EladasiAr": 4200000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-07-10T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      52000
+    ],
+    "SzervizLeiras": [
+      "Üzemanyag-szűrő csere"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0d1"
+  },
+  "AutoID": 114,
+  "Marka": "Opel",
+  "Modell": "Corsa",
+  "GyartasiEv": 2012,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 1500000,
+  "EladasiAr": 2100000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0d2"
+  },
+  "AutoID": 115,
+  "Marka": "Toyota",
+  "Modell": "Corolla",
+  "GyartasiEv": 2019,
+  "Szin": "Fehér",
+  "Motortipus": "Hibrid",
+  "VetelAr": 7500000,
+  "EladasiAr": 9000000,
+  "EladasDatuma": {
+    "$date": "2022-04-29T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Horváth",
+    "Keresztnev": "Ágnes",
+    "Iranyitoszam": 9024,
+    "Varos": "Győr",
+    "Utca": "Kisfaludy utca",
+    "Hazszam": 4,
+    "Email": "agnes.horvath@gmail.com",
+    "Telefonszam": 363089018
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0d3"
+  },
+  "AutoID": 116,
+  "Marka": "Mercedes-Benz",
+  "Modell": "C Osztály",
+  "GyartasiEv": 2017,
+  "Szin": "Fekete",
+  "Motortipus": "Dízel",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-12-28T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      72000
+    ],
+    "SzervizLeiras": [
+      "Elektromos rendszer javítása"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0d4"
+  },
+  "AutoID": 117,
+  "Marka": "Renault",
+  "Modell": "Clio",
+  "GyartasiEv": 2014,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 2400000,
+  "EladasiAr": 3000000,
+  "EladasDatuma": {
+    "$date": "2023-07-27T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Horváth",
+    "Keresztnev": "Márk",
+    "Iranyitoszam": 9021,
+    "Varos": "Győr",
+    "Utca": "Bécsi út",
+    "Hazszam": 24,
+    "Email": "mark.horvath@citromail.hu",
+    "Telefonszam": 363087012
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0d5"
+  },
+  "AutoID": 118,
+  "Marka": "Volkswagen",
+  "Modell": "Golf",
+  "GyartasiEv": 2020,
+  "Szin": "Ezüst",
+  "Motortipus": "Benzin",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000,
+  "EladasDatuma": {
+    "$date": "2022-11-03T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kovács",
+    "Keresztnev": "Lóránt",
+    "Iranyitoszam": 1052,
+    "Varos": "Budapest",
+    "Utca": "Károly körút",
+    "Hazszam": 25,
+    "Email": "lorant.kovacs@protonmail.com",
+    "Telefonszam": 362067567
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0d6"
+  },
+  "AutoID": 119,
+  "Marka": "Suzuki",
+  "Modell": "Swift",
+  "GyartasiEv": 2013,
+  "Szin": "Kék",
+  "Motortipus": "Benzin",
+  "VetelAr": 2100000,
+  "EladasiAr": 2700000,
+  "EladasDatuma": {
+    "$date": "2022-08-06T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Horváth",
+    "Keresztnev": "Márk",
+    "Iranyitoszam": 9021,
+    "Varos": "Győr",
+    "Utca": "Bécsi út",
+    "Hazszam": 24,
+    "Email": "mark.horvath@citromail.hu",
+    "Telefonszam": 363087012
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0d7"
+  },
+  "AutoID": 120,
+  "Marka": "Fiat",
+  "Modell": "Punto",
+  "GyartasiEv": 2010,
+  "Szin": "Fehér",
+  "Motortipus": "Benzin",
+  "VetelAr": 1200000,
+  "EladasiAr": 1800000,
+  "EladasDatuma": {
+    "$date": "2023-01-08T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Szabó",
+    "Keresztnev": "Balázs",
+    "Iranyitoszam": 6726,
+    "Varos": "Szeged",
+    "Utca": "Roosevelt tér",
+    "Hazszam": 9,
+    "Email": "balazs.szabo@gmail.com",
+    "Telefonszam": 367096374
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0d8"
+  },
+  "AutoID": 121,
+  "Marka": "Peugeot",
+  "Modell": "208",
+  "GyartasiEv": 2016,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 2400000,
+  "EladasiAr": 3000000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-06-22T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      48000
+    ],
+    "SzervizLeiras": [
+      "Kipufogórendszer javítás"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0d9"
+  },
+  "AutoID": 122,
+  "Marka": "Nissan",
+  "Modell": "Micra",
+  "GyartasiEv": 2017,
+  "Szin": "Zöld",
+  "Motortipus": "Benzin",
+  "VetelAr": 2100000,
+  "EladasiAr": 2700000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-02-16T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      77000
+    ],
+    "SzervizLeiras": [
+      "Motorolaj és szűrők cseréje"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2023-03-11T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Nagy",
+    "Keresztnev": "Bea",
+    "Iranyitoszam": 4400,
+    "Varos": "Nyíregyháza",
+    "Utca": "Bem József út",
+    "Hazszam": 14,
+    "Email": "bea.nagy@yahoo.com",
+    "Telefonszam": 367060890
+  }
+
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0da"
+  },
+  "AutoID": 123,
+  "Marka": "Skoda",
+  "Modell": "Fabia",
+  "GyartasiEv": 2015,
+  "Szin": "Fekete",
+  "Motortipus": "Benzin",
+  "VetelAr": 2400000,
+  "EladasiAr": 3000000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-05-18T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      57000
+    ],
+    "SzervizLeiras": [
+      "Sebességváltó felújítás"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2023-06-07T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Nagy",
+    "Keresztnev": "Judit",
+    "Iranyitoszam": 6724,
+    "Varos": "Szeged",
+    "Utca": "Roosevelt tér",
+    "Hazszam": 7,
+    "Email": "judit.nagy@outlook.com",
+    "Telefonszam": 367092123
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0db"
+  },
+  "AutoID": 124,
+  "Marka": "Hyundai",
+  "Modell": "i20",
+  "GyartasiEv": 2018,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-02-25T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      53000
+    ],
+    "SzervizLeiras": [
+      "Hűtőrendszer nagyszerviz"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2022-04-06T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Szabó",
+    "Keresztnev": "Ferenc",
+    "Iranyitoszam": 6722,
+    "Varos": "Szeged",
+    "Utca": "Kárász utca",
+    "Hazszam": 20,
+    "Email": "ferenc.szabo@protonmail.com",
+    "Telefonszam": 367090162
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0dc"
+  },
+  "AutoID": 125,
+  "Marka": "Kia",
+  "Modell": "Rio",
+  "GyartasiEv": 2011,
+  "Szin": "Világoskék",
+  "Motortipus": "Benzin",
+  "VetelAr": 1200000,
+  "EladasiAr": 1800000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-07-25T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      59000
+    ],
+    "SzervizLeiras": [
+      "Kormánymű javítás"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0dd"
+  },
+  "AutoID": 126,
+  "Marka": "Mazda",
+  "Modell": "2",
+  "GyartasiEv": 2014,
+  "Szin": "Fehér",
+  "Motortipus": "Benzin",
+  "VetelAr": 2100000,
+  "EladasiAr": 2700000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0de"
+  },
+  "AutoID": 127,
+  "Marka": "Citroen",
+  "Modell": "C3",
+  "GyartasiEv": 2019,
+  "Szin": "Sárga",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "EladasDatuma": {
+    "$date": "2022-09-18T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Szabó",
+    "Keresztnev": "Imola",
+    "Iranyitoszam": 6726,
+    "Varos": "Szeged",
+    "Utca": "Roosevelt tér",
+    "Hazszam": 4,
+    "Email": "imola.szabo@hotmail.com",
+    "Telefonszam": 362062890
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0df"
+  },
+  "AutoID": 128,
+  "Marka": "Seat",
+  "Modell": "Ibiza",
+  "GyartasiEv": 2016,
+  "Szin": "Fekete",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-06-21T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      40000
+    ],
+    "SzervizLeiras": [
+      "Elektromos rendszer javítása"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0e0"
+  },
+  "AutoID": 129,
+  "Marka": "Honda",
+  "Modell": "Jazz",
+  "GyartasiEv": 2017,
+  "Szin": "Ezüst",
+  "Motortipus": "Benzin",
+  "VetelAr": 3300000,
+  "EladasiAr": 4200000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0e1"
+  },
+  "AutoID": 130,
+  "Marka": "Mitsubishi",
+  "Modell": "Colt",
+  "GyartasiEv": 2012,
+  "Szin": "Kék",
+  "Motortipus": "Benzin",
+  "VetelAr": 1500000,
+  "EladasiAr": 2100000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0e2"
+  },
+  "AutoID": 131,
+  "Marka": "Audi",
+  "Modell": "A4",
+  "GyartasiEv": 2016,
+  "Szin": "Fehér",
+  "Motortipus": "Dízel",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0e3"
+  },
+  "AutoID": 132,
+  "Marka": "BMW",
+  "Modell": "5 Sorozat",
+  "GyartasiEv": 2013,
+  "Szin": "Szürke",
+  "Motortipus": "Dízel",
+  "VetelAr": 4500000,
+  "EladasiAr": 5700000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0e4"
+  },
+  "AutoID": 133,
+  "Marka": "Ford",
+  "Modell": "Mondeo",
+  "GyartasiEv": 2014,
+  "Szin": "Fekete",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "EladasDatuma": {
+    "$date": "2023-05-03T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Szűcs",
+    "Keresztnev": "Zoltán",
+    "Iranyitoszam": 6000,
+    "Varos": "Kecskemét",
+    "Utca": "Fő út",
+    "Hazszam": 9,
+    "Email": "zoltan.szucs@gmail.com",
+    "Telefonszam": 367023453
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0e5"
+  },
+  "AutoID": 134,
+  "Marka": "Opel",
+  "Modell": "Astra",
+  "GyartasiEv": 2018,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 5400000,
+  "EladasiAr": 6700000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0e6"
+  },
+  "AutoID": 135,
+  "Marka": "Toyota",
+  "Modell": "Auris",
+  "GyartasiEv": 2015,
+  "Szin": "Ezüst",
+  "Motortipus": "Hibrid",
+  "VetelAr": 7500000,
+  "EladasiAr": 9000000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2023-03-19T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      31000
+    ],
+    "SzervizLeiras": [
+      "Olajcsere"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2023-07-09T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Nagy",
+    "Keresztnev": "Zsuzsanna",
+    "Iranyitoszam": 1027,
+    "Varos": "Budapest",
+    "Utca": "Andrássy út",
+    "Hazszam": 17,
+    "Email": "zsuzsanna.nagy@citromail.hu",
+    "Telefonszam": 362034517
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0e7"
+  },
+  "AutoID": 136,
+  "Marka": "Mercedes-Benz",
+  "Modell": "E Osztály",
+  "GyartasiEv": 2017,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 5400000,
+  "EladasiAr": 6700000,
+  "EladasDatuma": {
+    "$date": "2022-12-30T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Tóth",
+    "Keresztnev": "Ágnes",
+    "Iranyitoszam": 3200,
+    "Varos": "Gyöngyös",
+    "Utca": "Rákóczi út",
+    "Hazszam": 14,
+    "Email": "agnes_toth@t-online.de",
+    "Telefonszam": 363056780
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0e8"
+  },
+  "AutoID": 137,
+  "Marka": "Renault",
+  "Modell": "Megane",
+  "GyartasiEv": 2019,
+  "Szin": "Kék",
+  "Motortipus": "Dízel",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-04-20T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      52000
+    ],
+    "SzervizLeiras": [
+      "Vezérműszíj csere"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2022-07-26T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kiss",
+    "Keresztnev": "Kinga",
+    "Iranyitoszam": 4400,
+    "Varos": "Nyíregyháza",
+    "Utca": "Rákóczi út",
+    "Hazszam": 7,
+    "Email": "kinga_kiss@outlook.com",
+    "Telefonszam": 362067583
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0e9"
+  },
+  "AutoID": 138,
+  "Marka": "Volkswagen",
+  "Modell": "Passat",
+  "GyartasiEv": 2016,
+  "Szin": "Fehér",
+  "Motortipus": "Dízel",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2023-01-24T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      78000
+    ],
+    "SzervizLeiras": [
+      "Hűtőrendszer nagyszerviz"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0ea"
+  },
+  "AutoID": 139,
+  "Marka": "Suzuki",
+  "Modell": "Vitara",
+  "GyartasiEv": 2017,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "EladasDatuma": {
+    "$date": "2022-06-08T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Tóth",
+    "Keresztnev": "Ibolya",
+    "Iranyitoszam": 9021,
+    "Varos": "Győr",
+    "Utca": "Bécsi út",
+    "Hazszam": 6,
+    "Email": "ibolya.toth@web.de",
+    "Telefonszam": 362030007
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0eb"
+  },
+  "AutoID": 140,
+  "Marka": "Fiat",
+  "Modell": "Tipo",
+  "GyartasiEv": 2018,
+  "Szin": "Kék",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0ec"
+  },
+  "AutoID": 141,
+  "Marka": "Peugeot",
+  "Modell": "308",
+  "GyartasiEv": 2015,
+  "Szin": "Fehér",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "EladasDatuma": {
+    "$date": "2022-11-12T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Szabó",
+    "Keresztnev": "Norbert",
+    "Iranyitoszam": 4400,
+    "Varos": "Nyíregyháza",
+    "Utca": "Kossuth tér",
+    "Hazszam": 12,
+    "Email": "norbert.szabo@yahoo.com",
+    "Telefonszam": 362090532
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0ed"
+  },
+  "AutoID": 142,
+  "Marka": "Nissan",
+  "Modell": "Qashqai",
+  "GyartasiEv": 2019,
+  "Szin": "Fekete",
+  "Motortipus": "Dízel",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-11-04T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      76000
+    ],
+    "SzervizLeiras": [
+      "Akkumulátor csere"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0ee"
+  },
+  "AutoID": 143,
+  "Marka": "Skoda",
+  "Modell": "Octavia",
+  "GyartasiEv": 2016,
+  "Szin": "Fehér",
+  "Motortipus": "Dízel",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0ef"
+  },
+  "AutoID": 144,
+  "Marka": "Hyundai",
+  "Modell": "Tucson",
+  "GyartasiEv": 2017,
+  "Szin": "Kék",
+  "Motortipus": "Benzin",
+  "VetelAr": 4500000,
+  "EladasiAr": 5700000,
+  "EladasDatuma": {
+    "$date": "2023-03-02T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kiss",
+    "Keresztnev": "Péter",
+    "Iranyitoszam": 4400,
+    "Varos": "Nyíregyháza",
+    "Utca": "Bem József út",
+    "Hazszam": 23,
+    "Email": "kisspeter72@citromail.hu",
+    "Telefonszam": 363067800
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0f0"
+  },
+  "AutoID": 145,
+  "Marka": "Kia",
+  "Modell": "Sportage",
+  "GyartasiEv": 2014,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "EladasDatuma": {
+    "$date": "2023-08-24T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Tóth",
+    "Keresztnev": "Ágota",
+    "Iranyitoszam": 9024,
+    "Varos": "Győr",
+    "Utca": "Kossuth Lajos utca",
+    "Hazszam": 10,
+    "Email": "agota.toth@outlook.com",
+    "Telefonszam": 363085274
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0f1"
+  },
+  "AutoID": 146,
+  "Marka": "Mazda",
+  "Modell": "CX-5",
+  "GyartasiEv": 2018,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 5400000,
+  "EladasiAr": 6700000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-06-13T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      50000
+    ],
+    "SzervizLeiras": [
+      "Fényszóró beállítás"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2022-09-26T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Horváth",
+    "Keresztnev": "Petra",
+    "Iranyitoszam": 1052,
+    "Varos": "Budapest",
+    "Utca": "Széchenyi István tér",
+    "Hazszam": 19,
+    "Email": "petra.horvath@protonmail.com",
+    "Telefonszam": 367089019
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0f2"
+  },
+  "AutoID": 147,
+  "Marka": "Honda",
+  "Modell": "CR-V",
+  "GyartasiEv": 2016,
+  "Szin": "Fekete",
+  "Motortipus": "Benzin",
+  "VetelAr": 5400000,
+  "EladasiAr": 7500000,
+  "EladasDatuma": {
+    "$date": "2023-04-10T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kiss",
+    "Keresztnev": "Dávid",
+    "Iranyitoszam": 9021,
+    "Varos": "Győr",
+    "Utca": "Aradi vértanúk tere",
+    "Hazszam": 11,
+    "Email": "david.kiss@web.de",
+    "Telefonszam": 363056389
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0f3"
+  },
+  "AutoID": 148,
+  "Marka": "Mitsubishi",
+  "Modell": "Outlander",
+  "GyartasiEv": 2019,
+  "Szin": "Zöld",
+  "Motortipus": "Hibrid",
+  "VetelAr": 7500000,
+  "EladasiAr": 9000000,
+  "EladasDatuma": {
+    "$date": "2023-01-26T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Nagy",
+    "Keresztnev": "Eszter",
+    "Iranyitoszam": 1117,
+    "Varos": "Budapest",
+    "Utca": "Váci út",
+    "Hazszam": 9,
+    "Email": "eszter.nagy@citromail.hu",
+    "Telefonszam": 367089153
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0f4"
+  },
+  "AutoID": 149,
+  "Marka": "Audi",
+  "Modell": "Q5",
+  "GyartasiEv": 2017,
+  "Szin": "Fekete",
+  "Motortipus": "Dízel",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000,
+  "EladasDatuma": {
+    "$date": "2022-07-04T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kiss",
+    "Keresztnev": "Péter",
+    "Iranyitoszam": 4400,
+    "Varos": "Nyíregyháza",
+    "Utca": "Bem József út",
+    "Hazszam": 23,
+    "Email": "kisspeter72@citromail.hu",
+    "Telefonszam": 363067800
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0f5"
+  },
+  "AutoID": 150,
+  "Marka": "BMW",
+  "Modell": "X3",
+  "GyartasiEv": 2015,
+  "Szin": "Fehér",
+  "Motortipus": "Dízel",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      
+      {"$date": "2021-02-09T00:00:00.000Z"},
+      {"$date": "2022-04-20T00:00:00.000Z"},
+      {"$date": "2022-07-28T00:00:00.000Z"}
+      
+    ],
+    "SzervizKoltseg": [
+      88000,
+      72000,
+      93000
+    ],
+    "SzervizLeiras": [
+      "Hűtőrendszer nagyszerviz",
+      "Elektromos rendszer javítása",
+      "Vezérműszíj csere"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0f6"
+  },
+  "AutoID": 151,
+  "Marka": "Ford",
+  "Modell": "Kuga",
+  "GyartasiEv": 2016,
+  "Szin": "Ezüst",
+  "Motortipus": "Benzin",
+  "VetelAr": 4500000,
+  "EladasiAr": 5700000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0f7"
+  },
+  "AutoID": 152,
+  "Marka": "Opel",
+  "Modell": "Mokka",
+  "GyartasiEv": 2013,
+  "Szin": "Fekete",
+  "Motortipus": "Benzin",
+  "VetelAr": 2400000,
+  "EladasiAr": 3000000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-05-01T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      35000
+    ],
+    "SzervizLeiras": [
+      "Ablaktörlő motor csere"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2022-04-01T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Horváth",
+    "Keresztnev": "Brigitta",
+    "Iranyitoszam": 1052,
+    "Varos": "Budapest",
+    "Utca": "Károly körút",
+    "Hazszam": 16,
+    "Email": "brigitta.horvath@outlook.com",
+    "Telefonszam": 367087012
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0f8"
+  },
+  "AutoID": 153,
+  "Marka": "Toyota",
+  "Modell": "RAV4",
+  "GyartasiEv": 2018,
+  "Szin": "Fehér",
+  "Motortipus": "Hibrid",
+  "VetelAr": 7500000,
+  "EladasiAr": 9000000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0f9"
+  },
+  "AutoID": 154,
+  "Marka": "Mercedes-Benz",
+  "Modell": "GLC Osztály",
+  "GyartasiEv": 2017,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000,
+  "EladasDatuma": {
+    "$date": "2023-01-17T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Horváth",
+    "Keresztnev": "Emília",
+    "Iranyitoszam": 9021,
+    "Varos": "Győr",
+    "Utca": "Berzsenyi tér",
+    "Hazszam": 19,
+    "Email": "emilia.horvath@citromail.hu",
+    "Telefonszam": 363069696
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0fa"
+  },
+  "AutoID": 155,
+  "Marka": "Renault",
+  "Modell": "Kadjar",
+  "GyartasiEv": 2016,
+  "Szin": "Kék",
+  "Motortipus": "Benzin",
+  "VetelAr": 4500000,
+  "EladasiAr": 5700000,
+  "EladasDatuma": {
+    "$date": "2022-09-05T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Nagy",
+    "Keresztnev": "Eszter",
+    "Iranyitoszam": 1117,
+    "Varos": "Budapest",
+    "Utca": "Váci út",
+    "Hazszam": 9,
+    "Email": "eszter.nagy@citromail.hu",
+    "Telefonszam": 367089153
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0fb"
+  },
+  "AutoID": 156,
+  "Marka": "Volkswagen",
+  "Modell": "Tiguan",
+  "GyartasiEv": 2019,
+  "Szin": "Fehér",
+  "Motortipus": "Dízel",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2023-01-06T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      30000
+    ],
+    "SzervizLeiras": [
+      "Légkondicionáló töltés"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0fc"
+  },
+  "AutoID": 157,
+  "Marka": "Suzuki",
+  "Modell": "SX4 S-Cross",
+  "GyartasiEv": 2014,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-08-12T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      31000
+    ],
+    "SzervizLeiras": [
+      "Olaj és olajszűrő csere"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2022-05-20T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Tóth",
+    "Keresztnev": "Anita",
+    "Iranyitoszam": 6000,
+    "Varos": "Kecskemét",
+    "Utca": "Kossuth Lajos utca",
+    "Hazszam": 17,
+    "Email": "anita_toth@t-online.hu",
+    "Telefonszam": 367089242
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0fd"
+  },
+  "AutoID": 158,
+  "Marka": "Fiat",
+  "Modell": "500X",
+  "GyartasiEv": 2018,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "EladasDatuma": {
+    "$date": "2022-12-04T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Tóth",
+    "Keresztnev": "Ágota",
+    "Iranyitoszam": 9024,
+    "Varos": "Győr",
+    "Utca": "Kossuth Lajos utca",
+    "Hazszam": 10,
+    "Email": "agota.toth@outlook.com",
+    "Telefonszam": 363085274
+  }
+
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0fe"
+  },
+  "AutoID": 159,
+  "Marka": "Peugeot",
+  "Modell": "3008",
+  "GyartasiEv": 2017,
+  "Szin": "Fekete",
+  "Motortipus": "Dízel",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-08-24T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      30000
+    ],
+    "SzervizLeiras": [
+      "Kormányműszivattyú csere"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2023-03-24T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Horváth",
+    "Keresztnev": "Brigitta",
+    "Iranyitoszam": 1052,
+    "Varos": "Budapest",
+    "Utca": "Károly körút",
+    "Hazszam": 16,
+    "Email": "brigitta.horvath@outlook.com",
+    "Telefonszam": 367087012
+  }
+
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef0ff"
+  },
+  "AutoID": 160,
+  "Marka": "Nissan",
+  "Modell": "X-Trail",
+  "GyartasiEv": 2016,
+  "Szin": "Ezüst",
+  "Motortipus": "Dízel",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      
+      {"$date": "2022-05-17T00:00:00.000Z"},
+      {"$date": "2023-03-01T00:00:00.000Z"}
+      
+    ],
+    "SzervizKoltseg": [
+      89000,
+      53000
+    ],
+    "SzervizLeiras": [
+      "Vezérműszíj csere",
+      "Üzemanyag-szűrő csere"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef100"
+  },
+  "AutoID": 161,
+  "Marka": "Skoda",
+  "Modell": "Kodiaq",
+  "GyartasiEv": 2019,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000,
+  "EladasDatuma": {
+    "$date": "2023-08-06T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Horváth",
+    "Keresztnev": "Emília",
+    "Iranyitoszam": 9021,
+    "Varos": "Győr",
+    "Utca": "Berzsenyi tér",
+    "Hazszam": 19,
+    "Email": "emilia.horvath@citromail.hu",
+    "Telefonszam": 363069696
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef101"
+  },
+  "AutoID": 162,
+  "Marka": "Hyundai",
+  "Modell": "Santa Fe",
+  "GyartasiEv": 2015,
+  "Szin": "Piros",
+  "Motortipus": "Dízel",
+  "VetelAr": 4500000,
+  "EladasiAr": 5700000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef102"
+  },
+  "AutoID": 163,
+  "Marka": "Kia",
+  "Modell": "Sorento",
+  "GyartasiEv": 2018,
+  "Szin": "Fehér",
+  "Motortipus": "Benzin",
+  "VetelAr": 7500000,
+  "EladasiAr": 9000000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef103"
+  },
+  "AutoID": 164,
+  "Marka": "Mazda",
+  "Modell": "CX-7",
+  "GyartasiEv": 2011,
+  "Szin": "Ezüst",
+  "Motortipus": "Benzin",
+  "VetelAr": 2400000,
+  "EladasiAr": 3000000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef104"
+  },
+  "AutoID": 165,
+  "Marka": "Honda",
+  "Modell": "CR-V",
+  "GyartasiEv": 2016,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 4500000,
+  "EladasiAr": 5700000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-10-31T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      46000
+    ],
+    "SzervizLeiras": [
+      "Fékrendszer ellenőrzése"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef105"
+  },
+  "AutoID": 166,
+  "Marka": "Mitsubishi",
+  "Modell": "ASX",
+  "GyartasiEv": 2018,
+  "Szin": "Fekete",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "EladasDatuma": {
+    "$date": "2022-08-14T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Nagy",
+    "Keresztnev": "Laura",
+    "Iranyitoszam": 4400,
+    "Varos": "Nyíregyháza",
+    "Utca": "Bajcsy-Zsilinszky út",
+    "Hazszam": 18,
+    "Email": "laura.nagy@yahoo.com",
+    "Telefonszam": 363062412
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef106"
+  },
+  "AutoID": 167,
+  "Marka": "Audi",
+  "Modell": "Q3",
+  "GyartasiEv": 2017,
+  "Szin": "Fehér",
+  "Motortipus": "Dízel",
+  "VetelAr": 6000000,
+  "EladasiAr": 7500000,
+  "EladasDatuma": {
+    "$date": "2022-10-26T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Nagy",
+    "Keresztnev": "István",
+    "Iranyitoszam": 4400,
+    "Varos": "Nyíregyháza",
+    "Utca": "Berzsenyi tér",
+    "Hazszam": 13,
+    "Email": "istvan.nagy@yahoo.com",
+    "Telefonszam": 363093122
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef107"
+  },
+  "AutoID": 168,
+  "Marka": "BMW",
+  "Modell": "X1",
+  "GyartasiEv": 2014,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 4500000,
+  "EladasiAr": 5700000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-10-26T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      52000
+    ],
+    "SzervizLeiras": [
+      "Üzemanyag-szűrő csere"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef108"
+  },
+  "AutoID": 169,
+  "Marka": "Ford",
+  "Modell": "EcoSport",
+  "GyartasiEv": 2016,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "EladasDatuma": {
+    "$date": "2023-05-21T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Horváth",
+    "Keresztnev": "Hanna",
+    "Iranyitoszam": 6724,
+    "Varos": "Szeged",
+    "Utca": "Aradi vértanúk tere",
+    "Hazszam": 17,
+    "Email": "hanna.horvath@gmail.com",
+    "Telefonszam": 363089063
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef109"
+  },
+  "AutoID": 170,
+  "Marka": "Opel",
+  "Modell": "Crossland X",
+  "GyartasiEv": 2019,
+  "Szin": "Fehér",
+  "Motortipus": "Benzin",
+  "VetelAr": 5400000,
+  "EladasiAr": 6700000,
+  "EladasDatuma": {
+    "$date": "2022-12-22T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Szabó",
+    "Keresztnev": "Imola",
+    "Iranyitoszam": 6726,
+    "Varos": "Szeged",
+    "Utca": "Roosevelt tér",
+    "Hazszam": 4,
+    "Email": "imola.szabo@hotmail.com",
+    "Telefonszam": 362062890
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef10a"
+  },
+  "AutoID": 171,
+  "Marka": "Toyota",
+  "Modell": "C-HR",
+  "GyartasiEv": 2017,
+  "Szin": "Ezüst",
+  "Motortipus": "Hibrid",
+  "VetelAr": 7500000,
+  "EladasiAr": 9000000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-12-15T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      64000
+    ],
+    "SzervizLeiras": [
+      "Légkondicionáló töltés"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2022-06-17T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Horváth",
+    "Keresztnev": "Péter",
+    "Iranyitoszam": 1117,
+    "Varos": "Budapest",
+    "Utca": "Bajza utca",
+    "Hazszam": 6,
+    "Email": "peter.horvath@hotmail.com",
+    "Telefonszam": 362032567
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef10b"
+  },
+  "AutoID": 172,
+  "Marka": "Mercedes-Benz",
+  "Modell": "GLA Osztály",
+  "GyartasiEv": 2016,
+  "Szin": "Kék",
+  "Motortipus": "Benzin",
+  "VetelAr": 4500000,
+  "EladasiAr": 5700000,
+  "EladasDatuma": {
+    "$date": "2022-08-27T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Horváth",
+    "Keresztnev": "János",
+    "Iranyitoszam": 9024,
+    "Varos": "Győr",
+    "Utca": "Aradi vértanúk tere",
+    "Hazszam": 21,
+    "Email": "janos.horvath@gmail.com",
+    "Telefonszam": 363089420
+  }
+
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef10c"
+  },
+  "AutoID": 173,
+  "Marka": "Renault",
+  "Modell": "Captur",
+  "GyartasiEv": 2018,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 5400000,
+  "EladasiAr": 6700000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-09-20T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      89000
+    ],
+    "SzervizLeiras": [
+      "Fényszóró beállítás"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef10d"
+  },
+  "AutoID": 174,
+  "Marka": "Volkswagen",
+  "Modell": "T-Roc",
+  "GyartasiEv": 2019,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 5400000,
+  "EladasiAr": 6700000,
+  "EladasDatuma": {
+    "$date": "2023-08-10T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kiss",
+    "Keresztnev": "Dávid",
+    "Iranyitoszam": 9021,
+    "Varos": "Győr",
+    "Utca": "Aradi vértanúk tere",
+    "Hazszam": 11,
+    "Email": "david.kiss@web.de",
+    "Telefonszam": 363056389
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef10e"
+  },
+  "AutoID": 175,
+  "Marka": "Suzuki",
+  "Modell": "Ignis",
+  "GyartasiEv": 2017,
+  "Szin": "Kék",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "EladasDatuma": {
+    "$date": "2022-05-07T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Szabó",
+    "Keresztnev": "Gábor",
+    "Iranyitoszam": 6724,
+    "Varos": "Szeged",
+    "Utca": "Petőfi Sándor u.",
+    "Hazszam": 18,
+    "Email": "szabogabi@hotmail.com",
+    "Telefonszam": 367012347
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef10f"
+  },
+  "AutoID": 176,
+  "Marka": "Fiat",
+  "Modell": "500L",
+  "GyartasiEv": 2016,
+  "Szin": "Fehér",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef110"
+  },
+  "AutoID": 177,
+  "Marka": "Peugeot",
+  "Modell": "2008",
+  "GyartasiEv": 2018,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 5400000,
+  "EladasiAr": 6700000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef111"
+  },
+  "AutoID": 178,
+  "Marka": "Nissan",
+  "Modell": "Juke",
+  "GyartasiEv": 2015,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "EladasDatuma": {
+    "$date": "2023-02-21T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Szabó",
+    "Keresztnev": "Katalin",
+    "Iranyitoszam": 4400,
+    "Varos": "Nyíregyháza",
+    "Utca": "Bajcsy-Zsilinszky út",
+    "Hazszam": 11,
+    "Email": "katalin.szabo@protonmail.com",
+    "Telefonszam": 363067890
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef112"
+  },
+  "AutoID": 179,
+  "Marka": "Skoda",
+  "Modell": "Kamiq",
+  "GyartasiEv": 2019,
+  "Szin": "Kék",
+  "Motortipus": "Benzin",
+  "VetelAr": 5400000,
+  "EladasiAr": 6700000,
+  "EladasDatuma": {
+    "$date": "2022-11-21T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kiss",
+    "Keresztnev": "Péter",
+    "Iranyitoszam": 4400,
+    "Varos": "Nyíregyháza",
+    "Utca": "Bem József út",
+    "Hazszam": 23,
+    "Email": "kisspeter72@citromail.hu",
+    "Telefonszam": 363067800
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef113"
+  },
+  "AutoID": 180,
+  "Marka": "Hyundai",
+  "Modell": "Kona",
+  "GyartasiEv": 2017,
+  "Szin": "Fehér",
+  "Motortipus": "Benzin",
+  "VetelAr": 4500000,
+  "EladasiAr": 5700000,
+  "EladasDatuma": {
+    "$date": "2023-04-24T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kovács",
+    "Keresztnev": "Dániel",
+    "Iranyitoszam": 1117,
+    "Varos": "Budapest",
+    "Utca": "Alkotás utca",
+    "Hazszam": 4,
+    "Email": "kovacs.daniel@outlook.com",
+    "Telefonszam": 362045679
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef114"
+  },
+  "AutoID": 181,
+  "Marka": "Kia",
+  "Modell": "Stonic",
+  "GyartasiEv": 2018,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 5400000,
+  "EladasiAr": 6700000,
+  "Szerviz": {
+    "SzervizDatum": [
+      
+      {"$date": "2021-03-05T00:00:00.000Z"},
+      {"$date": "2021-10-04T00:00:00.000Z"}
+      
+    ],
+    "SzervizKoltseg": [
+      50000,
+      78000
+    ],
+    "SzervizLeiras": [
+      "Fényszóró beállítás",
+      "Akkumulátor csere"
+    ]
+  },
+  "EladasDatuma": {
+    "$date": "2022-07-22T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Nagy",
+    "Keresztnev": "Gergő",
+    "Iranyitoszam": 6000,
+    "Varos": "Kecskemét",
+    "Utca": "Kossuth tér",
+    "Hazszam": 3,
+    "Email": "gergo.nagy@protonmail.com",
+    "Telefonszam": 367090328
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef115"
+  },
+  "AutoID": 182,
+  "Marka": "Mazda",
+  "Modell": "CX-3",
+  "GyartasiEv": 2016,
+  "Szin": "Kék",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-09-29T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      32000
+    ],
+    "SzervizLeiras": [
+      "Olajcsere"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef116"
+  },
+  "AutoID": 183,
+  "Marka": "Honda",
+  "Modell": "HR-V",
+  "GyartasiEv": 2019,
+  "Szin": "Fehér",
+  "Motortipus": "Benzin",
+  "VetelAr": 5400000,
+  "EladasiAr": 6700000,
+  "Szerviz": {
+    "SzervizDatum": [
+      
+      {"$date": "2022-07-19T00:00:00.000Z"},
+      {"$date": "2023-02-02T00:00:00.000Z"}
+      
+    ],
+    "SzervizKoltseg": [
+      78000,
+      45000
+    ],
+    "SzervizLeiras": [
+      "Akkumulátor csere",
+      "Kormánymű javítás"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef117"
+  },
+  "AutoID": 184,
+  "Marka": "Mitsubishi",
+  "Modell": "Eclipse Cross",
+  "GyartasiEv": 2017,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 4500000,
+  "EladasiAr": 5700000,
+  "EladasDatuma": {
+    "$date": "2022-10-09T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kiss",
+    "Keresztnev": "Bence",
+    "Iranyitoszam": 1052,
+    "Varos": "Budapest",
+    "Utca": "Bajza utca",
+    "Hazszam": 20,
+    "Email": "bence.kiss@protonmail.com",
+    "Telefonszam": 362036359
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef118"
+  },
+  "AutoID": 185,
+  "Marka": "Audi",
+  "Modell": "A1",
+  "GyartasiEv": 2018,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "EladasDatuma": {
+    "$date": "2022-04-13T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Szabó",
+    "Keresztnev": "Imola",
+    "Iranyitoszam": 6726,
+    "Varos": "Szeged",
+    "Utca": "Roosevelt tér",
+    "Hazszam": 4,
+    "Email": "imola.szabo@hotmail.com",
+    "Telefonszam": 362062890
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef119"
+  },
+  "AutoID": 186,
+  "Marka": "BMW",
+  "Modell": "1 Sorozat",
+  "GyartasiEv": 2015,
+  "Szin": "Fekete",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "EladasDatuma": {
+    "$date": "2023-02-04T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kovács",
+    "Keresztnev": "Lóránt",
+    "Iranyitoszam": 1052,
+    "Varos": "Budapest",
+    "Utca": "Károly körút",
+    "Hazszam": 25,
+    "Email": "lorant.kovacs@protonmail.com",
+    "Telefonszam": 362067567
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef11a"
+  },
+  "AutoID": 187,
+  "Marka": "Ford",
+  "Modell": "Fiesta",
+  "GyartasiEv": 2017,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef11b"
+  },
+  "AutoID": 188,
+  "Marka": "Opel",
+  "Modell": "Adam",
+  "GyartasiEv": 2016,
+  "Szin": "Fehér",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "EladasDatuma": {
+    "$date": "2023-07-19T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Kovács",
+    "Keresztnev": "Dávid",
+    "Iranyitoszam": 1052,
+    "Varos": "Budapest",
+    "Utca": "Bécsi út",
+    "Hazszam": 22,
+    "Email": "david.kovacs@yahoo.com",
+    "Telefonszam": 362035647
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef11c"
+  },
+  "AutoID": 189,
+  "Marka": "Toyota",
+  "Modell": "Yaris",
+  "GyartasiEv": 2019,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 5400000,
+  "EladasiAr": 6700000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef11d"
+  },
+  "AutoID": 190,
+  "Marka": "Mercedes-Benz",
+  "Modell": "A Osztály",
+  "GyartasiEv": 2018,
+  "Szin": "Fekete",
+  "Motortipus": "Benzin",
+  "VetelAr": 5400000,
+  "EladasiAr": 6700000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2021-12-06T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      47000
+    ],
+    "SzervizLeiras": [
+      "Vezérműszíj csere"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef11e"
+  },
+  "AutoID": 191,
+  "Marka": "Renault",
+  "Modell": "Twingo",
+  "GyartasiEv": 2015,
+  "Szin": "Kék",
+  "Motortipus": "Benzin",
+  "VetelAr": 2100000,
+  "EladasiAr": 2700000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef11f"
+  },
+  "AutoID": 192,
+  "Marka": "Volkswagen",
+  "Modell": "Polo",
+  "GyartasiEv": 2017,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef120"
+  },
+  "AutoID": 193,
+  "Marka": "Suzuki",
+  "Modell": "Swift",
+  "GyartasiEv": 2016,
+  "Szin": "Fehér",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef121"
+  },
+  "AutoID": 194,
+  "Marka": "Fiat",
+  "Modell": "500",
+  "GyartasiEv": 2019,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-05-26T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      32000
+    ],
+    "SzervizLeiras": [
+      "Hűtőrendszer nagyszerviz"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef122"
+  },
+  "AutoID": 195,
+  "Marka": "Peugeot",
+  "Modell": "208",
+  "GyartasiEv": 2017,
+  "Szin": "Ezüst",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      
+      {"$date": "2021-07-17T00:00:00.000Z"},
+      {"$date": "2021-08-29T00:00:00.000Z"}
+      
+    ],
+    "SzervizKoltseg": [
+      83000,
+      38000
+    ],
+    "SzervizLeiras": [
+      "Üzemanyag-szűrő csere",
+      "Hűtőrendszer nagyszerviz"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef123"
+  },
+  "AutoID": 196,
+  "Marka": "Nissan",
+  "Modell": "Micra",
+  "GyartasiEv": 2016,
+  "Szin": "Piros",
+  "Motortipus": "Benzin",
+  "VetelAr": 2100000,
+  "EladasiAr": 2700000,
+  "EladasDatuma": {
+    "$date": "2022-04-25T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Papp",
+    "Keresztnev": "Kata",
+    "Iranyitoszam": 2800,
+    "Varos": "Tatabánya",
+    "Utca": "Ady Endre út",
+    "Hazszam": 31,
+    "Email": "kata_papp@web.de",
+    "Telefonszam": 363089011
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef124"
+  },
+  "AutoID": 197,
+  "Marka": "Skoda",
+  "Modell": "Fabia",
+  "GyartasiEv": 2018,
+  "Szin": "Kék",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-09-11T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      46000
+    ],
+    "SzervizLeiras": [
+      "Üzemanyag-szűrő csere"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef125"
+  },
+  "AutoID": 198,
+  "Marka": "Hyundai",
+  "Modell": "i20",
+  "GyartasiEv": 2017,
+  "Szin": "Fehér",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "Szerviz": {
+    "SzervizDatum": [
+      {
+        "$date": "2022-04-02T00:00:00.000Z"
+      }
+    ],
+    "SzervizKoltseg": [
+      30000
+    ],
+    "SzervizLeiras": [
+      "Motorolaj és szűrők cseréje"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef126"
+  },
+  "AutoID": 199,
+  "Marka": "Kia",
+  "Modell": "Rio",
+  "GyartasiEv": 2015,
+  "Szin": "Barna",
+  "Motortipus": "Benzin",
+  "VetelAr": 1200000,
+  "EladasiAr": 1800000
+},
+{
+  "_id": {
+    "$oid": "663e2dc2f54a4047bfbef127"
+  },
+  "AutoID": 200,
+  "Marka": "Mazda",
+  "Modell": "2",
+  "GyartasiEv": 2018,
+  "Szin": "Fehér",
+  "Motortipus": "Benzin",
+  "VetelAr": 3600000,
+  "EladasiAr": 4500000,
+  "EladasDatuma": {
+    "$date": "2023-06-17T00:00:00.000Z"
+  },
+  "Ugyfel": {
+    "Vezeteknev": "Horváth",
+    "Keresztnev": "Emília",
+    "Iranyitoszam": 9021,
+    "Varos": "Győr",
+    "Utca": "Berzsenyi tér",
+    "Hazszam": 19,
+    "Email": "emilia.horvath@citromail.hu",
+    "Telefonszam": 363069696
+  }
+}]
