@@ -1,0 +1,29 @@
+Autók márka szerinti eloszlása:
+db.autok.aggregate([{$group:{_id:"$Marka",darab:{$sum:1}}}])
+
+Azon autók szervizadatai, amelyek első szervizköltsége meghaladta a 90 000 forintot:
+db.autok.find({"Szerviz.SzervizKoltseg.0":{$gt:90000}},{"Marka":1,"Modell":1,"Szerviz.SzervizKoltseg":1,"Szerviz.SzervizLeiras":1,"Szerviz.SzervizDatum":1})
+
+Átlagos vételár márkánként:
+db.autok.aggregate([{$group:{_id:"$Marka",atlagar:{$avg:"$VetelAr"}}}])
+
+Autók gyártási év szerinti eloszlása:
+db.autok.aggregate([{$group:{_id:"$GyartasiEv",darabszam:{$sum:1}}},{$sort:{ _id:1}}])
+
+Szegedi ügyfelek autóival kapcsolatos adatok:
+db.autok.find({"Ugyfel.Varos":"Szeged"},{"Marka":1,"Modell":1,"Ugyfel.Varos":1,"Ugyfel.Vezeteknev":1,"Ugyfel.Keresztnev":1,"Ugyfel.Iranyitoszam":1})
+
+Budapesti benzines BMW-k száma:
+db.autok.find({"Ugyfel.Varos":"Budapest","Motortipus":"Benzin","Marka":"BMW"}).count()
+
+Budapesti ügyfelek autóinak márka és motortípus szerinti eloszlása:
+db.autok.aggregate([{$match:{"Ugyfel.Varos":"Budapest"}},{$group:{_id:{Marka:"$Marka",Motortipus:"$Motortipus"},darab:{$sum:1}}}])
+
+2022-ben, 5 millió forint felett eladott autók adatai:
+db.autok.find({"EladasDatuma":{$gte:ISODate("2022-01-01"),$lt:ISODate("2023-01-01")},"EladasiAr":{$gt:5000000}},{"EladasiAr":1,"Marka":1,"Modell":1,"EladasDatuma":1,"Ugyfel.Vezeteknev":1,"Ugyfel.Keresztnev": 1, _id:0})
+
+Autók adatai, amelyeken legalább 1,5 millió forint nyeresége volt a kereskedésnek:
+db.autok.find({$expr:{$gt:[{$subtract:["$EladasiAr",{$add:["$VetelAr",{$sum:"$Szerviz.SzervizKoltseg"}]}]},1500000]}},{Marka:1,Modell:1,GyartasiEv:1,_id:1,kulonbseg:{$subtract:["$EladasiAr",{ $add:["$VetelAr",{$sum:"$Szerviz.SzervizKoltseg"}]}]}})
+
+A legdrágább autó az adatbázisban:
+db.autok.find({},{Marka:1,Modell:1,GyartasiEv:1,EladasiAr:1}).sort({EladasiAr:-1}).limit(1)
